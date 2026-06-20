@@ -1,0 +1,1501 @@
+Customer ID,Age,Gender,City,Subscription Type,Monthly Spending,Tenure,Number of Purchases,Customer Support Requests,Login Frequency,Last Activity Date,Satisfaction Score,Churn Status
+CUST-1001,58,Male,New York,Premium,92.0,15,2,3,Daily,2026-03-26,1,1
+CUST-1002,20,Male,Los Angeles,Basic,14.65,39,1,0,Weekly,2026-03-29,5,1
+CUST-1003,55,Female,New York,Basic,23.96,22,5,0,Weekly,2026-05-24,4,0
+CUST-1004,42,Male,Philadelphia,Standard,54.15,52,2,0,Monthly,2026-04-13,2,0
+CUST-1005,42,Male,Dallas,Standard,63.18,40,12,3,Weekly,2026-03-22,1,1
+CUST-1006,32,Female,Los Angeles,Basic,27.33,25,5,2,Monthly,2026-03-31,4,1
+CUST-1007,40,Male,Phoenix,Premium,144.93,42,3,0,Weekly,2026-04-13,3,1
+CUST-1008,42,Female,Dallas,Basic,23.69,54,25,0,Daily,2026-05-22,2,0
+CUST-1009,43,Female,Los Angeles,Basic,28.26,37,11,1,Weekly,2026-03-29,5,0
+CUST-1010,59,Female,Chicago,Standard,35.59,48,18,1,Bi-weekly,2026-04-07,5,0
+CUST-1011,43,Female,Houston,Basic,20.19,6,1,1,Daily,2026-06-01,3,0
+CUST-1012,45,Other,Los Angeles,Standard,45.26,30,9,1,Bi-weekly,2026-04-11,2,0
+CUST-1013,25,Other,Dallas,Standard,60.74,22,2,2,Bi-weekly,2026-04-26,3,0
+CUST-1014,64,Other,Phoenix,Premium,130.96,33,4,2,Bi-weekly,2026-03-31,3,1
+CUST-1015,66,Male,Dallas,Premium,143.48,39,11,1,Monthly,2026-06-18,2,0
+CUST-1016,74,Female,Houston,Basic,14.82,37,3,0,Daily,2026-04-19,2,0
+CUST-1017,52,Male,Chicago,Premium,108.02,36,6,4,Bi-weekly,2026-04-14,4,0
+CUST-1018,52,Other,Houston,Premium,94.94,43,21,2,Bi-weekly,2026-04-25,5,0
+CUST-1019,32,Male,Philadelphia,Basic,21.77,15,5,1,Weekly,2026-06-20,2,0
+CUST-1020,21,Male,Los Angeles,Basic,27.19,5,1,2,Bi-weekly,2026-03-27,5,1
+CUST-1021,26,Other,San Jose,Premium,107.81,51,16,1,Monthly,2026-05-27,2,1
+CUST-1022,45,Female,San Antonio,Standard,48.68,47,2,1,Daily,2026-06-13,5,0
+CUST-1023,69,Male,Houston,Basic,13.8,29,3,6,Monthly,2026-05-28,2,1
+CUST-1024,73,Male,San Diego,Premium,77.83,42,18,0,Daily,2026-06-09,3,0
+CUST-1025,49,Female,Houston,Standard,66.1,11,4,0,Daily,2026-05-02,4,0
+CUST-1026,68,Female,Phoenix,Standard,57.86,47,18,1,Monthly,2026-06-01,3,0
+CUST-1027,21,Other,Dallas,Basic,24.96,4,1,2,Monthly,2026-04-17,3,1
+CUST-1028,50,Male,Chicago,Basic,21.9,44,8,1,Monthly,2026-06-05,3,0
+CUST-1029,20,Other,Los Angeles,Standard,56.29,37,17,0,Bi-weekly,2026-05-18,3,0
+CUST-1030,38,Male,Phoenix,Standard,35.24,42,10,1,Monthly,2026-05-11,2,1
+CUST-1031,57,Other,Los Angeles,Basic,20.75,33,9,2,Weekly,2026-05-07,2,0
+CUST-1032,41,Female,Chicago,Standard,63.35,46,10,0,Daily,2026-03-27,4,0
+CUST-1033,24,Male,Phoenix,Basic,27.79,48,18,4,Weekly,2026-05-17,3,0
+CUST-1034,63,Female,Houston,Premium,120.74,17,8,1,Bi-weekly,2026-06-14,2,0
+CUST-1035,71,Female,New York,Basic,16.67,9,3,2,Weekly,2026-04-25,5,0
+CUST-1036,25,Male,Chicago,Premium,72.88,24,10,0,Weekly,2026-04-26,3,1
+CUST-1037,41,Male,Philadelphia,Basic,23.64,43,4,1,Bi-weekly,2026-04-10,5,0
+CUST-1038,65,Male,Houston,Basic,29.52,52,6,3,Monthly,2026-06-17,2,0
+CUST-1039,39,Female,Houston,Standard,36.37,45,4,0,Monthly,2026-06-16,5,0
+CUST-1040,70,Female,Philadelphia,Standard,62.82,56,8,4,Weekly,2026-06-17,2,1
+CUST-1041,35,Male,Phoenix,Standard,55.66,26,11,2,Bi-weekly,2026-06-17,2,0
+CUST-1042,34,Male,San Jose,Standard,31.53,39,14,0,Bi-weekly,2026-05-11,5,0
+CUST-1043,50,Male,San Antonio,Premium,85.21,3,2,0,Daily,2026-04-15,3,0
+CUST-1044,22,Other,Philadelphia,Premium,95.11,55,4,1,Bi-weekly,2026-04-17,4,0
+CUST-1045,38,Female,Phoenix,Premium,80.18,27,11,2,Monthly,2026-03-26,3,0
+CUST-1046,37,Female,Dallas,Basic,16.08,14,4,2,Bi-weekly,2026-04-22,5,0
+CUST-1047,31,Other,San Diego,Premium,83.58,6,2,0,Bi-weekly,2026-06-09,3,0
+CUST-1048,32,Male,Chicago,Basic,10.92,31,10,1,Daily,2026-04-23,5,0
+CUST-1049,54,Male,San Antonio,Standard,45.99,10,1,5,Daily,2026-04-27,2,1
+CUST-1050,62,Other,San Diego,Basic,21.15,59,28,4,Daily,2026-04-23,2,0
+CUST-1051,60,Other,Dallas,Premium,95.38,49,15,0,Monthly,2026-04-11,5,0
+CUST-1052,65,Female,San Diego,Standard,60.07,54,21,1,Bi-weekly,2026-04-15,5,0
+CUST-1053,35,Female,Los Angeles,Premium,92.86,18,6,2,Bi-weekly,2026-04-12,2,1
+CUST-1054,32,Female,Chicago,Premium,87.12,27,7,1,Bi-weekly,2026-04-12,5,0
+CUST-1055,31,Female,San Antonio,Premium,145.68,2,2,0,Monthly,2026-06-20,4,0
+CUST-1056,42,Female,Dallas,Premium,128.77,52,20,0,Weekly,2026-04-19,3,0
+CUST-1057,49,Male,San Antonio,Standard,56.75,52,13,2,Weekly,2026-04-22,3,0
+CUST-1058,52,Male,San Antonio,Premium,115.15,2,1,2,Monthly,2026-06-03,5,0
+CUST-1059,34,Female,Philadelphia,Basic,19.09,22,7,3,Bi-weekly,2026-04-28,3,0
+CUST-1060,48,Male,Dallas,Basic,30.0,23,4,1,Daily,2026-03-29,2,0
+CUST-1061,33,Male,New York,Premium,82.19,9,4,0,Daily,2026-04-09,3,0
+CUST-1062,34,Female,Chicago,Premium,118.58,48,23,2,Daily,2026-05-31,4,0
+CUST-1063,19,Female,San Jose,Premium,142.64,25,7,2,Weekly,2026-06-11,3,0
+CUST-1064,67,Female,San Jose,Basic,25.92,37,2,0,Bi-weekly,2026-04-13,5,0
+CUST-1065,22,Other,Philadelphia,Basic,26.99,53,16,2,Daily,2026-04-26,4,0
+CUST-1066,71,Female,Chicago,Standard,37.05,34,9,2,Monthly,2026-04-22,5,0
+CUST-1067,55,Female,Philadelphia,Basic,26.61,6,2,2,Monthly,2026-05-20,5,0
+CUST-1068,60,Female,Philadelphia,Basic,19.89,21,3,2,Monthly,2026-05-24,4,0
+CUST-1069,39,Female,San Jose,Premium,140.41,36,1,2,Weekly,2026-06-10,3,0
+CUST-1070,49,Other,Houston,Premium,108.09,46,16,0,Monthly,2026-06-18,2,1
+CUST-1071,43,Other,Houston,Standard,56.56,24,8,2,Bi-weekly,2026-04-27,4,0
+CUST-1072,47,Female,Phoenix,Standard,39.22,47,7,1,Bi-weekly,2026-06-05,3,0
+CUST-1073,65,Female,Phoenix,Premium,117.17,49,17,1,Bi-weekly,2026-06-08,3,0
+CUST-1074,41,Male,Phoenix,Basic,24.16,9,3,3,Daily,2026-06-14,3,0
+CUST-1075,26,Other,San Diego,Basic,27.45,37,10,1,Monthly,2026-04-20,5,0
+CUST-1076,21,Female,San Diego,Basic,26.44,26,8,2,Daily,2026-04-08,2,1
+CUST-1077,69,Other,Phoenix,Basic,29.88,8,4,3,Weekly,2026-04-15,4,0
+CUST-1078,46,Female,San Jose,Standard,42.22,40,2,1,Daily,2026-05-25,3,0
+CUST-1079,23,Male,Houston,Basic,21.04,11,1,3,Monthly,2026-04-24,4,0
+CUST-1080,32,Female,Phoenix,Premium,138.77,5,1,3,Bi-weekly,2026-04-01,2,1
+CUST-1081,52,Male,Chicago,Standard,63.07,5,1,2,Weekly,2026-05-12,4,0
+CUST-1082,47,Other,Phoenix,Premium,102.2,18,9,0,Monthly,2026-04-25,2,0
+CUST-1083,74,Female,Philadelphia,Premium,90.03,6,1,2,Daily,2026-03-26,4,0
+CUST-1084,66,Male,San Diego,Premium,122.12,59,9,0,Weekly,2026-04-07,5,0
+CUST-1085,49,Male,San Diego,Standard,46.33,21,2,1,Weekly,2026-05-09,5,0
+CUST-1086,36,Other,San Antonio,Premium,72.94,6,2,0,Bi-weekly,2026-05-10,2,0
+CUST-1087,43,Other,New York,Premium,139.55,30,7,3,Daily,2026-05-27,3,0
+CUST-1088,49,Other,San Diego,Basic,14.07,36,5,1,Bi-weekly,2026-04-25,5,0
+CUST-1089,58,Other,Houston,Premium,82.67,36,1,2,Monthly,2026-06-09,3,0
+CUST-1090,25,Female,Los Angeles,Premium,136.57,32,10,3,Bi-weekly,2026-04-28,4,0
+CUST-1091,33,Female,Dallas,Basic,17.67,59,20,1,Weekly,2026-06-12,4,0
+CUST-1092,72,Female,Philadelphia,Premium,91.37,1,2,2,Bi-weekly,2026-04-06,5,0
+CUST-1093,46,Other,San Diego,Standard,43.3,49,18,4,Monthly,2026-04-23,3,0
+CUST-1094,62,Male,San Jose,Standard,39.34,50,14,1,Daily,2026-05-11,5,0
+CUST-1095,69,Female,San Antonio,Premium,133.39,42,5,1,Monthly,2026-06-16,3,0
+CUST-1096,55,Female,Los Angeles,Standard,33.99,59,15,0,Daily,2026-06-02,5,0
+CUST-1097,27,Male,San Diego,Standard,43.54,45,13,1,Daily,2026-05-09,5,0
+CUST-1098,58,Other,San Diego,Premium,72.87,5,1,4,Bi-weekly,2026-05-22,1,1
+CUST-1099,24,Other,Los Angeles,Standard,36.65,20,1,5,Daily,2026-05-10,1,1
+CUST-1100,41,Female,Chicago,Basic,20.62,37,6,2,Weekly,2026-05-29,2,0
+CUST-1101,42,Other,Houston,Standard,66.51,10,2,0,Monthly,2026-03-31,4,0
+CUST-1102,60,Male,San Diego,Standard,57.1,11,1,3,Monthly,2026-05-07,3,0
+CUST-1103,45,Other,Phoenix,Standard,63.81,13,4,0,Monthly,2026-06-07,3,0
+CUST-1104,40,Other,Phoenix,Premium,93.62,54,22,2,Monthly,2026-05-16,2,0
+CUST-1105,61,Other,New York,Premium,129.61,54,10,4,Weekly,2026-04-04,3,1
+CUST-1106,30,Other,Phoenix,Premium,130.45,50,22,1,Weekly,2026-04-01,2,0
+CUST-1107,59,Male,Phoenix,Standard,31.33,24,12,5,Weekly,2026-06-09,3,0
+CUST-1108,44,Male,Houston,Basic,25.73,57,12,5,Bi-weekly,2026-05-30,3,0
+CUST-1109,48,Female,Philadelphia,Basic,19.37,5,1,1,Weekly,2026-03-26,5,0
+CUST-1110,69,Other,Philadelphia,Basic,25.81,1,2,1,Daily,2026-04-23,4,0
+CUST-1111,61,Female,San Jose,Standard,62.9,24,2,2,Weekly,2026-04-21,2,0
+CUST-1112,53,Female,San Jose,Basic,22.95,41,15,1,Bi-weekly,2026-03-29,5,1
+CUST-1113,20,Male,Phoenix,Standard,34.64,16,3,0,Monthly,2026-04-23,4,0
+CUST-1114,65,Other,Dallas,Standard,53.49,47,5,2,Monthly,2026-03-29,2,0
+CUST-1115,57,Female,Phoenix,Basic,23.81,14,4,2,Monthly,2026-05-21,4,0
+CUST-1116,61,Female,Dallas,Premium,98.69,26,5,1,Weekly,2026-06-05,5,0
+CUST-1117,31,Other,San Jose,Basic,11.01,22,4,0,Weekly,2026-04-09,3,1
+CUST-1118,66,Other,Houston,Premium,87.28,56,8,2,Bi-weekly,2026-06-02,2,1
+CUST-1119,27,Male,Dallas,Standard,61.94,8,1,3,Weekly,2026-06-19,3,0
+CUST-1120,33,Other,Philadelphia,Basic,13.48,4,1,1,Monthly,2026-04-14,2,1
+CUST-1121,48,Female,Philadelphia,Premium,117.49,29,9,1,Weekly,2026-04-03,2,0
+CUST-1122,73,Other,Dallas,Standard,48.32,2,1,0,Monthly,2026-04-30,5,0
+CUST-1123,49,Other,San Diego,Basic,27.99,21,10,4,Weekly,2026-06-12,2,1
+CUST-1124,58,Other,Dallas,Premium,96.01,39,17,0,Bi-weekly,2026-04-23,5,0
+CUST-1125,62,Male,Dallas,Premium,139.24,28,8,1,Weekly,2026-04-29,4,0
+CUST-1126,43,Female,Los Angeles,Standard,47.07,43,9,2,Bi-weekly,2026-06-01,5,0
+CUST-1127,71,Male,Los Angeles,Standard,33.86,48,12,4,Weekly,2026-04-10,1,1
+CUST-1128,53,Other,Philadelphia,Premium,79.78,23,11,1,Monthly,2026-06-14,4,0
+CUST-1129,40,Male,San Jose,Premium,87.02,43,16,1,Weekly,2026-06-07,4,0
+CUST-1130,41,Male,Phoenix,Premium,88.09,28,14,0,Daily,2026-04-04,4,1
+CUST-1131,35,Other,Phoenix,Standard,44.04,12,2,0,Monthly,2026-06-12,3,0
+CUST-1132,19,Male,Dallas,Basic,17.52,30,6,0,Weekly,2026-05-04,4,0
+CUST-1133,67,Other,San Jose,Basic,27.67,10,2,3,Daily,2026-03-26,1,1
+CUST-1134,60,Female,San Diego,Premium,105.36,18,4,2,Daily,2026-05-07,5,0
+CUST-1135,61,Other,San Jose,Standard,51.08,20,1,1,Weekly,2026-05-01,2,1
+CUST-1136,37,Male,Chicago,Standard,41.58,8,1,2,Monthly,2026-04-26,3,0
+CUST-1137,52,Other,Houston,Premium,114.7,43,12,2,Daily,2026-05-01,2,1
+CUST-1138,47,Male,Philadelphia,Premium,104.34,26,12,2,Monthly,2026-05-14,2,1
+CUST-1139,38,Male,San Jose,Standard,63.28,59,12,0,Daily,2026-04-26,2,1
+CUST-1140,55,Female,Dallas,Basic,17.92,20,6,1,Weekly,2026-05-09,3,0
+CUST-1141,58,Male,Dallas,Premium,85.51,50,12,3,Bi-weekly,2026-03-30,2,1
+CUST-1142,27,Female,Houston,Basic,22.05,49,21,2,Daily,2026-05-29,5,0
+CUST-1143,54,Other,San Diego,Premium,143.93,37,11,4,Bi-weekly,2026-06-01,4,0
+CUST-1144,46,Other,Phoenix,Standard,53.66,23,9,0,Daily,2026-05-12,5,0
+CUST-1145,21,Female,Phoenix,Basic,22.89,55,3,0,Monthly,2026-04-22,2,1
+CUST-1146,69,Other,Houston,Standard,54.2,33,5,0,Daily,2026-04-24,2,0
+CUST-1147,71,Female,Los Angeles,Premium,121.69,3,1,0,Monthly,2026-04-25,3,0
+CUST-1148,36,Female,San Antonio,Standard,57.16,4,2,1,Daily,2026-05-09,2,0
+CUST-1149,42,Female,Phoenix,Premium,138.13,59,20,2,Weekly,2026-05-09,2,0
+CUST-1150,27,Female,Phoenix,Premium,125.88,26,3,2,Daily,2026-05-12,5,0
+CUST-1151,39,Male,Dallas,Basic,22.92,28,9,5,Bi-weekly,2026-06-18,3,0
+CUST-1152,31,Female,San Diego,Basic,14.53,9,2,0,Daily,2026-05-14,2,0
+CUST-1153,52,Other,Dallas,Basic,23.24,57,25,4,Weekly,2026-04-05,4,1
+CUST-1154,29,Other,San Jose,Basic,24.42,3,2,3,Bi-weekly,2026-03-26,2,0
+CUST-1155,57,Female,San Diego,Basic,20.68,20,8,3,Weekly,2026-05-04,4,0
+CUST-1156,36,Female,Dallas,Premium,103.49,11,2,3,Weekly,2026-05-19,1,0
+CUST-1157,73,Female,Dallas,Basic,24.23,34,4,2,Bi-weekly,2026-06-10,3,0
+CUST-1158,75,Other,Chicago,Standard,33.67,59,8,1,Monthly,2026-05-07,2,1
+CUST-1159,43,Other,Philadelphia,Basic,17.72,6,2,3,Weekly,2026-06-17,3,0
+CUST-1160,71,Other,Philadelphia,Basic,12.75,19,8,2,Weekly,2026-03-22,5,0
+CUST-1161,18,Male,New York,Standard,38.63,10,5,1,Monthly,2026-06-06,4,0
+CUST-1162,25,Male,Houston,Standard,55.56,40,15,3,Daily,2026-06-06,4,0
+CUST-1163,19,Other,Dallas,Premium,89.36,10,3,1,Monthly,2026-06-20,4,0
+CUST-1164,44,Male,Los Angeles,Premium,147.97,5,1,2,Monthly,2026-04-21,2,0
+CUST-1165,41,Female,New York,Standard,61.54,23,4,1,Daily,2026-04-07,4,1
+CUST-1166,40,Other,Philadelphia,Premium,84.01,50,22,0,Monthly,2026-03-23,5,0
+CUST-1167,69,Male,Los Angeles,Premium,132.1,30,1,2,Bi-weekly,2026-05-26,2,0
+CUST-1168,74,Male,Philadelphia,Standard,50.62,53,18,0,Monthly,2026-05-19,2,0
+CUST-1169,30,Female,Philadelphia,Basic,27.32,22,5,1,Daily,2026-05-04,5,0
+CUST-1170,65,Female,San Antonio,Standard,68.95,32,16,2,Bi-weekly,2026-04-15,4,0
+CUST-1171,64,Female,Los Angeles,Standard,54.1,53,6,0,Bi-weekly,2026-05-10,2,1
+CUST-1172,60,Female,Phoenix,Standard,54.1,28,3,2,Monthly,2026-05-07,5,1
+CUST-1173,73,Female,San Jose,Standard,40.98,51,2,4,Daily,2026-03-27,4,0
+CUST-1174,69,Other,Chicago,Basic,12.86,39,15,0,Daily,2026-06-04,2,1
+CUST-1175,59,Female,Philadelphia,Standard,67.98,3,1,2,Monthly,2026-05-04,4,0
+CUST-1176,22,Other,Chicago,Premium,99.36,21,5,1,Weekly,2026-06-06,2,0
+CUST-1177,49,Other,San Antonio,Premium,79.42,50,9,1,Monthly,2026-05-24,4,0
+CUST-1178,49,Male,Los Angeles,Basic,27.06,29,3,1,Monthly,2026-06-09,4,0
+CUST-1179,63,Male,Dallas,Premium,93.23,20,3,0,Weekly,2026-05-05,3,0
+CUST-1180,30,Male,Houston,Standard,31.05,36,12,0,Monthly,2026-04-11,3,0
+CUST-1181,23,Male,Phoenix,Standard,69.98,47,16,4,Monthly,2026-04-29,1,1
+CUST-1182,38,Other,Los Angeles,Standard,48.63,34,12,2,Weekly,2026-04-11,3,0
+CUST-1183,26,Female,Dallas,Basic,26.63,34,5,1,Bi-weekly,2026-05-30,3,0
+CUST-1184,63,Male,Philadelphia,Premium,141.59,55,3,1,Bi-weekly,2026-05-26,4,0
+CUST-1185,37,Other,Dallas,Basic,20.05,11,5,3,Weekly,2026-05-30,3,0
+CUST-1186,54,Male,New York,Basic,10.91,42,19,3,Bi-weekly,2026-03-29,2,0
+CUST-1187,44,Other,New York,Standard,65.56,35,10,2,Bi-weekly,2026-04-20,3,0
+CUST-1188,61,Female,Phoenix,Standard,32.92,4,1,2,Monthly,2026-04-28,5,0
+CUST-1189,39,Other,Chicago,Standard,64.46,21,6,3,Monthly,2026-06-04,3,0
+CUST-1190,24,Female,Houston,Standard,34.9,29,4,1,Weekly,2026-06-08,2,1
+CUST-1191,42,Other,San Antonio,Basic,29.25,58,6,0,Bi-weekly,2026-04-08,4,1
+CUST-1192,28,Female,Dallas,Standard,49.95,20,8,1,Daily,2026-06-09,5,0
+CUST-1193,33,Male,San Jose,Standard,31.95,19,8,1,Monthly,2026-05-15,2,0
+CUST-1194,45,Male,Phoenix,Premium,99.26,26,6,4,Daily,2026-04-30,1,0
+CUST-1195,30,Female,Dallas,Standard,32.94,33,15,2,Bi-weekly,2026-04-02,2,1
+CUST-1196,24,Female,Philadelphia,Standard,52.31,24,3,5,Weekly,2026-04-04,4,0
+CUST-1197,20,Male,Chicago,Premium,96.64,31,9,2,Monthly,2026-06-01,3,0
+CUST-1198,57,Female,Chicago,Standard,69.62,48,10,0,Bi-weekly,2026-04-17,5,0
+CUST-1199,37,Female,New York,Standard,43.25,8,4,3,Bi-weekly,2026-03-24,1,1
+CUST-1200,34,Other,San Jose,Premium,88.2,4,2,2,Weekly,2026-04-14,5,1
+CUST-1201,61,Male,New York,Premium,145.86,8,2,3,Daily,2026-04-25,3,0
+CUST-1202,44,Other,Houston,Standard,50.07,40,16,1,Daily,2026-03-22,3,0
+CUST-1203,53,Female,San Diego,Premium,100.15,12,4,8,Bi-weekly,2026-04-12,2,1
+CUST-1204,73,Other,Phoenix,Premium,108.73,16,5,1,Bi-weekly,2026-05-23,4,0
+CUST-1205,63,Male,San Diego,Standard,49.19,36,9,2,Bi-weekly,2026-06-05,5,0
+CUST-1206,43,Female,Chicago,Standard,31.68,46,3,2,Bi-weekly,2026-04-25,4,0
+CUST-1207,31,Male,Dallas,Standard,67.32,45,9,0,Weekly,2026-06-07,3,0
+CUST-1208,60,Other,Houston,Premium,88.63,7,2,3,Bi-weekly,2026-04-21,1,0
+CUST-1209,26,Male,Dallas,Basic,18.14,60,29,4,Monthly,2026-04-20,2,0
+CUST-1210,36,Female,Phoenix,Premium,74.73,50,3,0,Weekly,2026-04-13,2,0
+CUST-1211,29,Female,Chicago,Basic,29.94,26,13,0,Monthly,2026-05-28,4,0
+CUST-1212,18,Female,San Jose,Premium,78.58,22,5,3,Monthly,2026-03-30,4,0
+CUST-1213,26,Other,San Diego,Standard,37.71,8,3,0,Weekly,2026-04-23,4,0
+CUST-1214,18,Other,Philadelphia,Standard,52.71,49,7,0,Weekly,2026-04-03,5,0
+CUST-1215,50,Female,Los Angeles,Standard,56.77,12,2,1,Monthly,2026-05-10,3,1
+CUST-1216,42,Male,San Diego,Standard,68.16,20,10,1,Daily,2026-05-18,4,0
+CUST-1217,21,Other,Los Angeles,Standard,42.27,26,11,2,Bi-weekly,2026-03-24,2,1
+CUST-1218,36,Female,San Jose,Basic,14.38,9,4,2,Weekly,2026-04-23,4,0
+CUST-1219,53,Female,Dallas,Premium,136.05,49,8,2,Daily,2026-04-14,5,0
+CUST-1220,41,Male,San Jose,Basic,11.24,36,17,2,Weekly,2026-04-08,3,1
+CUST-1221,72,Other,San Diego,Basic,23.61,46,19,2,Monthly,2026-06-09,5,0
+CUST-1222,47,Male,Dallas,Standard,48.27,4,2,1,Bi-weekly,2026-06-18,5,0
+CUST-1223,18,Other,Houston,Premium,75.84,28,6,1,Daily,2026-04-12,2,0
+CUST-1224,22,Female,New York,Standard,46.35,50,5,0,Monthly,2026-05-04,5,0
+CUST-1225,42,Female,Los Angeles,Premium,147.13,56,18,0,Weekly,2026-03-29,4,1
+CUST-1226,52,Female,Dallas,Basic,24.56,15,7,0,Daily,2026-06-18,4,0
+CUST-1227,64,Other,San Antonio,Premium,100.34,15,2,0,Monthly,2026-05-07,3,0
+CUST-1228,74,Other,Los Angeles,Basic,26.19,27,10,1,Daily,2026-05-21,3,0
+CUST-1229,56,Male,San Diego,Premium,123.76,56,2,2,Weekly,2026-06-15,5,0
+CUST-1230,52,Male,New York,Basic,20.08,19,4,1,Bi-weekly,2026-04-08,4,1
+CUST-1231,74,Male,Dallas,Basic,18.27,18,1,0,Weekly,2026-04-01,5,0
+CUST-1232,21,Female,San Antonio,Premium,95.5,27,7,0,Weekly,2026-05-13,5,0
+CUST-1233,52,Female,Houston,Basic,16.01,46,5,0,Monthly,2026-06-13,5,0
+CUST-1234,53,Other,Chicago,Standard,39.71,14,3,1,Daily,2026-04-24,4,0
+CUST-1235,64,Male,New York,Standard,45.09,39,2,0,Daily,2026-05-27,3,0
+CUST-1236,73,Female,Phoenix,Basic,14.24,13,6,0,Daily,2026-04-20,3,0
+CUST-1237,63,Male,San Antonio,Basic,21.04,50,10,1,Monthly,2026-04-22,4,0
+CUST-1238,41,Other,San Diego,Standard,33.94,47,16,1,Bi-weekly,2026-05-25,4,0
+CUST-1239,20,Other,Houston,Premium,81.67,17,7,1,Bi-weekly,2026-06-01,3,0
+CUST-1240,42,Other,Houston,Standard,52.03,44,11,2,Bi-weekly,2026-04-19,5,0
+CUST-1241,64,Female,Chicago,Basic,24.41,32,6,2,Daily,2026-04-14,2,0
+CUST-1242,22,Other,New York,Basic,18.25,54,21,2,Weekly,2026-06-12,3,1
+CUST-1243,50,Female,Philadelphia,Basic,22.36,43,20,0,Monthly,2026-03-28,5,1
+CUST-1244,52,Other,San Antonio,Basic,10.33,47,9,0,Bi-weekly,2026-06-18,5,0
+CUST-1245,29,Male,Los Angeles,Premium,81.91,13,5,1,Bi-weekly,2026-05-06,4,0
+CUST-1246,23,Female,San Antonio,Standard,52.6,45,8,2,Bi-weekly,2026-03-25,2,0
+CUST-1247,72,Other,New York,Basic,18.11,25,9,1,Monthly,2026-06-13,2,0
+CUST-1248,23,Female,San Antonio,Premium,132.75,37,4,1,Daily,2026-05-22,3,0
+CUST-1249,62,Other,San Diego,Standard,31.86,5,2,3,Daily,2026-05-29,3,1
+CUST-1250,31,Other,Chicago,Premium,135.67,60,3,2,Bi-weekly,2026-05-31,3,0
+CUST-1251,72,Female,Dallas,Standard,45.35,48,5,1,Daily,2026-04-17,4,1
+CUST-1252,45,Male,Los Angeles,Standard,54.21,40,20,0,Monthly,2026-05-10,2,0
+CUST-1253,68,Female,San Diego,Basic,17.12,25,7,1,Weekly,2026-03-25,5,1
+CUST-1254,57,Female,Houston,Premium,75.88,18,3,1,Monthly,2026-03-31,3,0
+CUST-1255,38,Female,Los Angeles,Basic,10.1,20,8,4,Bi-weekly,2026-05-17,1,1
+CUST-1256,29,Female,San Diego,Premium,114.38,27,2,0,Daily,2026-06-09,4,0
+CUST-1257,56,Other,Philadelphia,Standard,30.49,27,7,3,Daily,2026-04-10,2,1
+CUST-1258,28,Other,San Antonio,Basic,12.78,20,5,0,Monthly,2026-06-02,2,1
+CUST-1259,35,Female,Phoenix,Standard,61.31,24,5,1,Weekly,2026-04-01,5,0
+CUST-1260,30,Female,Los Angeles,Basic,16.09,26,6,2,Monthly,2026-05-09,5,0
+CUST-1261,70,Other,San Jose,Basic,16.01,39,7,2,Monthly,2026-05-11,3,0
+CUST-1262,38,Female,San Diego,Premium,132.56,21,7,0,Bi-weekly,2026-05-01,4,0
+CUST-1263,54,Male,San Jose,Premium,84.39,50,18,0,Daily,2026-04-22,3,0
+CUST-1264,36,Other,Los Angeles,Standard,56.92,9,3,1,Weekly,2026-05-19,3,0
+CUST-1265,68,Female,Los Angeles,Standard,69.63,31,10,0,Monthly,2026-04-13,5,0
+CUST-1266,68,Female,Dallas,Premium,121.05,6,1,1,Weekly,2026-03-28,4,1
+CUST-1267,57,Male,San Jose,Premium,124.2,26,13,1,Bi-weekly,2026-04-26,2,1
+CUST-1268,34,Male,Dallas,Premium,111.5,38,19,1,Weekly,2026-04-24,4,0
+CUST-1269,67,Other,San Jose,Premium,110.04,23,1,1,Monthly,2026-06-07,4,0
+CUST-1270,23,Male,Chicago,Standard,42.48,30,13,4,Weekly,2026-04-15,4,0
+CUST-1271,24,Female,San Diego,Standard,32.69,3,1,0,Daily,2026-05-08,2,0
+CUST-1272,28,Other,Houston,Premium,83.96,11,3,3,Monthly,2026-04-22,2,0
+CUST-1273,58,Male,Chicago,Premium,122.58,26,1,1,Weekly,2026-04-24,5,0
+CUST-1274,63,Male,Houston,Standard,60.09,52,26,0,Daily,2026-04-08,2,0
+CUST-1275,52,Male,Philadelphia,Standard,37.88,8,3,1,Monthly,2026-04-14,4,0
+CUST-1276,57,Female,San Jose,Basic,16.96,55,15,1,Weekly,2026-03-26,4,0
+CUST-1277,55,Male,Chicago,Standard,34.71,20,2,0,Weekly,2026-05-04,3,0
+CUST-1278,44,Other,Chicago,Premium,100.7,12,4,1,Weekly,2026-04-10,3,0
+CUST-1279,26,Male,Philadelphia,Standard,54.78,56,12,1,Daily,2026-04-19,3,1
+CUST-1280,42,Other,Dallas,Premium,109.6,44,16,2,Monthly,2026-03-22,5,0
+CUST-1281,23,Other,New York,Basic,15.84,18,4,1,Bi-weekly,2026-05-30,5,0
+CUST-1282,67,Female,Dallas,Premium,79.06,8,3,0,Bi-weekly,2026-04-12,2,0
+CUST-1283,46,Other,Houston,Standard,34.1,54,21,3,Weekly,2026-05-13,1,1
+CUST-1284,40,Male,San Diego,Basic,25.51,16,4,3,Bi-weekly,2026-03-22,4,1
+CUST-1285,26,Male,Houston,Basic,21.4,35,9,1,Weekly,2026-05-10,4,0
+CUST-1286,35,Other,Los Angeles,Basic,29.26,51,14,3,Daily,2026-05-16,2,0
+CUST-1287,26,Male,Chicago,Premium,95.77,16,7,2,Monthly,2026-06-02,4,0
+CUST-1288,42,Female,Los Angeles,Premium,133.57,50,3,0,Monthly,2026-04-16,4,0
+CUST-1289,74,Female,San Diego,Standard,43.09,1,1,3,Monthly,2026-03-31,3,0
+CUST-1290,68,Other,San Antonio,Basic,29.36,53,7,1,Monthly,2026-05-17,4,0
+CUST-1291,39,Other,San Jose,Basic,21.32,32,11,0,Daily,2026-06-15,2,0
+CUST-1292,71,Female,New York,Basic,28.59,11,4,0,Monthly,2026-06-20,5,0
+CUST-1293,62,Male,Phoenix,Basic,27.49,57,9,3,Daily,2026-03-29,3,0
+CUST-1294,41,Other,Chicago,Basic,17.93,20,4,3,Monthly,2026-03-29,1,0
+CUST-1295,18,Male,San Diego,Basic,12.65,15,5,1,Monthly,2026-06-19,2,0
+CUST-1296,70,Male,San Antonio,Premium,80.57,5,1,2,Monthly,2026-06-09,2,1
+CUST-1297,41,Female,Chicago,Standard,60.94,49,5,1,Weekly,2026-06-12,2,0
+CUST-1298,28,Female,Philadelphia,Premium,87.04,48,5,1,Monthly,2026-04-03,5,0
+CUST-1299,23,Male,Chicago,Basic,21.79,25,6,2,Monthly,2026-05-11,3,0
+CUST-1300,59,Male,Houston,Premium,118.08,47,20,2,Bi-weekly,2026-03-24,2,0
+CUST-1301,60,Female,Houston,Premium,118.55,13,6,0,Monthly,2026-05-14,2,0
+CUST-1302,68,Male,San Diego,Standard,34.51,32,3,4,Daily,2026-05-05,3,0
+CUST-1303,73,Other,San Antonio,Standard,51.85,12,4,0,Daily,2026-06-18,2,1
+CUST-1304,31,Male,New York,Standard,50.26,41,17,1,Monthly,2026-04-27,5,0
+CUST-1305,52,Other,San Jose,Basic,15.55,20,2,1,Weekly,2026-06-01,4,0
+CUST-1306,58,Other,Los Angeles,Standard,57.95,47,8,3,Daily,2026-05-20,1,0
+CUST-1307,25,Female,San Jose,Premium,74.4,43,6,1,Daily,2026-06-19,3,0
+CUST-1308,28,Female,Philadelphia,Premium,111.38,53,24,1,Bi-weekly,2026-05-30,4,0
+CUST-1309,67,Female,Los Angeles,Basic,16.7,28,5,2,Daily,2026-05-18,2,0
+CUST-1310,50,Female,New York,Standard,64.37,11,3,1,Weekly,2026-05-19,2,0
+CUST-1311,61,Other,Los Angeles,Basic,24.82,1,1,3,Daily,2026-05-20,1,1
+CUST-1312,42,Male,Chicago,Basic,21.06,59,23,1,Monthly,2026-05-23,4,0
+CUST-1313,64,Female,Phoenix,Basic,21.43,8,1,0,Weekly,2026-05-23,2,0
+CUST-1314,22,Female,Phoenix,Standard,43.09,36,15,2,Daily,2026-05-04,3,0
+CUST-1315,68,Female,San Jose,Basic,19.28,38,16,2,Weekly,2026-04-12,3,1
+CUST-1316,44,Male,Houston,Premium,97.71,54,23,2,Daily,2026-05-09,2,0
+CUST-1317,42,Other,Phoenix,Basic,14.1,16,7,0,Monthly,2026-06-13,3,0
+CUST-1318,23,Male,Houston,Premium,103.04,58,12,5,Monthly,2026-06-10,1,0
+CUST-1319,58,Female,Los Angeles,Premium,115.43,28,11,0,Weekly,2026-05-21,4,0
+CUST-1320,38,Female,Philadelphia,Standard,48.11,15,1,2,Weekly,2026-06-03,2,1
+CUST-1321,28,Female,San Diego,Standard,46.26,35,12,4,Weekly,2026-04-24,3,0
+CUST-1322,72,Male,Los Angeles,Basic,26.15,20,10,2,Daily,2026-05-24,4,0
+CUST-1323,63,Male,Philadelphia,Standard,50.54,44,10,4,Bi-weekly,2026-05-29,1,0
+CUST-1324,72,Female,Dallas,Premium,114.01,7,2,0,Daily,2026-06-03,2,1
+CUST-1325,71,Male,Chicago,Basic,26.47,24,11,2,Daily,2026-04-07,4,0
+CUST-1326,22,Male,Los Angeles,Basic,28.05,29,13,1,Weekly,2026-06-09,4,0
+CUST-1327,47,Male,Chicago,Premium,104.65,47,13,2,Monthly,2026-06-17,5,0
+CUST-1328,29,Female,Houston,Basic,15.5,29,3,2,Daily,2026-04-03,3,0
+CUST-1329,49,Female,Dallas,Standard,32.44,18,7,1,Weekly,2026-04-28,3,0
+CUST-1330,69,Other,Houston,Premium,149.53,35,1,0,Monthly,2026-05-06,5,0
+CUST-1331,49,Female,San Jose,Premium,95.73,18,3,0,Daily,2026-05-11,3,1
+CUST-1332,69,Female,New York,Standard,51.18,50,19,1,Weekly,2026-05-31,2,1
+CUST-1333,33,Female,Dallas,Premium,74.47,15,5,2,Monthly,2026-05-06,3,0
+CUST-1334,55,Female,Philadelphia,Premium,72.26,45,12,1,Weekly,2026-04-09,3,0
+CUST-1335,69,Female,Dallas,Standard,37.02,3,1,1,Daily,2026-05-22,3,1
+CUST-1336,48,Male,Philadelphia,Premium,86.12,9,3,1,Weekly,2026-05-10,2,1
+CUST-1337,55,Other,Chicago,Basic,26.93,56,12,1,Daily,2026-05-04,5,0
+CUST-1338,39,Female,Philadelphia,Basic,29.52,47,14,3,Monthly,2026-03-29,3,1
+CUST-1339,53,Other,San Jose,Standard,38.93,38,6,1,Monthly,2026-05-12,4,0
+CUST-1340,64,Male,San Jose,Standard,64.03,50,19,1,Daily,2026-05-28,4,0
+CUST-1341,57,Male,San Jose,Basic,28.73,10,3,0,Daily,2026-05-21,4,0
+CUST-1342,28,Other,Los Angeles,Premium,123.6,47,11,0,Monthly,2026-06-19,4,0
+CUST-1343,62,Male,Philadelphia,Standard,61.48,47,1,2,Daily,2026-05-02,5,0
+CUST-1344,28,Female,San Diego,Standard,44.05,25,2,2,Monthly,2026-04-08,3,1
+CUST-1345,22,Male,Phoenix,Basic,16.37,7,1,1,Bi-weekly,2026-05-30,5,0
+CUST-1346,22,Other,Los Angeles,Standard,53.76,40,16,1,Daily,2026-04-26,3,0
+CUST-1347,45,Male,New York,Basic,16.62,13,4,0,Bi-weekly,2026-03-28,4,0
+CUST-1348,24,Male,San Antonio,Premium,113.97,32,5,3,Daily,2026-05-05,1,1
+CUST-1349,36,Other,San Jose,Standard,37.99,2,1,2,Weekly,2026-03-31,4,0
+CUST-1350,48,Male,Phoenix,Standard,48.84,58,22,0,Bi-weekly,2026-06-09,5,0
+CUST-1351,74,Female,Philadelphia,Basic,18.92,17,8,2,Monthly,2026-05-18,3,0
+CUST-1352,54,Male,Chicago,Premium,123.4,6,3,0,Bi-weekly,2026-04-12,5,0
+CUST-1353,55,Male,Dallas,Basic,26.82,53,17,1,Monthly,2026-04-13,5,0
+CUST-1354,33,Female,Phoenix,Basic,17.9,55,23,0,Daily,2026-04-17,3,1
+CUST-1355,66,Female,Chicago,Basic,29.44,52,7,0,Weekly,2026-06-15,5,0
+CUST-1356,61,Female,Houston,Premium,81.83,39,9,1,Bi-weekly,2026-06-12,2,1
+CUST-1357,43,Other,Philadelphia,Standard,50.79,59,28,1,Daily,2026-03-23,5,1
+CUST-1358,27,Male,San Jose,Premium,116.61,7,1,0,Daily,2026-05-15,4,0
+CUST-1359,34,Female,San Diego,Premium,118.72,3,1,1,Bi-weekly,2026-04-30,3,0
+CUST-1360,61,Other,San Antonio,Basic,17.92,57,11,3,Weekly,2026-06-14,4,0
+CUST-1361,75,Female,New York,Standard,62.7,20,5,0,Bi-weekly,2026-04-19,2,0
+CUST-1362,32,Male,Phoenix,Premium,105.45,53,11,2,Bi-weekly,2026-04-28,2,1
+CUST-1363,31,Female,San Diego,Premium,139.38,53,2,0,Weekly,2026-06-12,4,0
+CUST-1364,43,Male,Dallas,Premium,72.32,13,2,0,Daily,2026-05-20,2,0
+CUST-1365,41,Other,Houston,Standard,44.73,30,9,0,Monthly,2026-03-31,2,0
+CUST-1366,33,Female,San Diego,Premium,105.69,56,16,0,Bi-weekly,2026-05-07,3,0
+CUST-1367,34,Other,Los Angeles,Standard,31.1,4,1,2,Weekly,2026-05-23,3,0
+CUST-1368,35,Other,San Antonio,Premium,71.6,50,25,2,Daily,2026-04-21,3,0
+CUST-1369,56,Male,Houston,Standard,54.33,20,5,2,Monthly,2026-05-03,4,0
+CUST-1370,31,Female,Phoenix,Premium,111.65,40,13,2,Daily,2026-06-20,4,0
+CUST-1371,56,Other,Phoenix,Standard,57.38,31,2,1,Bi-weekly,2026-05-16,4,0
+CUST-1372,34,Other,Phoenix,Basic,13.0,49,8,2,Daily,2026-04-05,5,0
+CUST-1373,61,Male,New York,Premium,109.79,19,5,4,Monthly,2026-04-30,4,0
+CUST-1374,55,Other,San Jose,Basic,16.86,46,8,0,Monthly,2026-03-27,4,0
+CUST-1375,72,Male,Dallas,Basic,15.88,31,3,1,Bi-weekly,2026-04-10,3,0
+CUST-1376,75,Female,Los Angeles,Basic,17.11,48,10,1,Monthly,2026-05-09,4,0
+CUST-1377,36,Female,Los Angeles,Standard,32.15,41,19,0,Daily,2026-04-21,3,0
+CUST-1378,73,Other,San Antonio,Premium,93.87,4,1,3,Weekly,2026-05-26,3,0
+CUST-1379,54,Female,Chicago,Standard,64.5,12,1,1,Monthly,2026-05-09,3,0
+CUST-1380,21,Male,San Diego,Standard,38.38,50,6,1,Weekly,2026-04-19,2,1
+CUST-1381,45,Other,San Antonio,Standard,47.16,31,7,1,Daily,2026-06-16,3,0
+CUST-1382,18,Female,Dallas,Basic,10.36,1,1,3,Weekly,2026-03-24,3,1
+CUST-1383,24,Female,Dallas,Premium,94.49,5,1,0,Bi-weekly,2026-05-14,5,0
+CUST-1384,56,Other,Philadelphia,Standard,65.52,9,3,0,Monthly,2026-05-06,3,0
+CUST-1385,69,Female,New York,Basic,14.49,9,2,4,Daily,2026-04-06,2,1
+CUST-1386,63,Other,New York,Standard,65.06,17,1,0,Daily,2026-03-28,2,0
+CUST-1387,19,Male,Los Angeles,Standard,47.77,8,3,2,Monthly,2026-03-23,3,1
+CUST-1388,61,Other,New York,Standard,46.83,7,3,1,Bi-weekly,2026-04-02,3,0
+CUST-1389,75,Male,Dallas,Premium,119.42,19,2,0,Daily,2026-04-18,3,0
+CUST-1390,67,Female,Dallas,Basic,17.16,27,5,1,Weekly,2026-06-15,5,0
+CUST-1391,62,Female,Philadelphia,Basic,10.05,43,3,1,Daily,2026-04-08,5,1
+CUST-1392,23,Other,Los Angeles,Premium,127.89,58,9,1,Weekly,2026-04-23,4,0
+CUST-1393,21,Male,Chicago,Basic,27.04,24,11,2,Bi-weekly,2026-04-27,2,1
+CUST-1394,66,Male,New York,Basic,23.27,11,3,2,Bi-weekly,2026-04-25,4,0
+CUST-1395,23,Female,Philadelphia,Basic,12.28,26,8,2,Bi-weekly,2026-05-02,5,0
+CUST-1396,59,Male,Los Angeles,Basic,23.92,4,1,0,Daily,2026-04-28,5,0
+CUST-1397,61,Female,Chicago,Premium,100.38,23,10,1,Daily,2026-03-25,3,0
+CUST-1398,49,Male,San Antonio,Standard,31.84,17,6,0,Daily,2026-03-22,3,0
+CUST-1399,60,Female,Dallas,Premium,125.06,40,4,2,Monthly,2026-03-28,3,0
+CUST-1400,60,Other,San Antonio,Basic,26.78,36,2,1,Daily,2026-03-30,3,0
+CUST-1401,48,Female,Chicago,Basic,25.03,21,4,0,Bi-weekly,2026-05-16,2,0
+CUST-1402,53,Other,San Antonio,Standard,62.68,6,2,3,Monthly,2026-04-08,4,1
+CUST-1403,49,Female,Philadelphia,Basic,29.61,48,21,1,Daily,2026-06-07,5,0
+CUST-1404,53,Other,New York,Basic,25.84,40,10,2,Weekly,2026-03-29,5,0
+CUST-1405,41,Male,Houston,Standard,43.28,50,20,1,Monthly,2026-03-28,4,0
+CUST-1406,25,Male,Houston,Basic,16.83,54,21,0,Bi-weekly,2026-04-11,4,0
+CUST-1407,20,Male,San Diego,Basic,26.44,48,24,1,Monthly,2026-06-07,4,0
+CUST-1408,30,Male,San Antonio,Basic,19.14,51,7,2,Bi-weekly,2026-06-07,5,1
+CUST-1409,58,Other,San Jose,Basic,25.44,29,8,4,Weekly,2026-04-18,1,1
+CUST-1410,21,Other,San Antonio,Premium,108.63,33,6,2,Weekly,2026-06-04,2,1
+CUST-1411,56,Other,Philadelphia,Premium,140.51,27,10,1,Weekly,2026-05-16,5,0
+CUST-1412,36,Female,Chicago,Basic,18.25,45,17,2,Bi-weekly,2026-03-23,4,0
+CUST-1413,53,Other,Houston,Basic,14.19,46,10,2,Bi-weekly,2026-03-26,3,0
+CUST-1414,59,Male,Dallas,Premium,125.54,21,2,2,Bi-weekly,2026-04-10,5,0
+CUST-1415,60,Other,San Antonio,Premium,129.83,54,18,1,Bi-weekly,2026-04-27,2,0
+CUST-1416,19,Female,Chicago,Basic,23.41,13,3,6,Weekly,2026-05-15,2,1
+CUST-1417,21,Other,Phoenix,Basic,25.07,3,2,1,Monthly,2026-06-07,3,0
+CUST-1418,53,Female,Houston,Premium,132.74,52,23,1,Bi-weekly,2026-03-24,2,0
+CUST-1419,42,Female,Philadelphia,Premium,74.3,48,9,0,Weekly,2026-04-02,5,0
+CUST-1420,58,Other,Philadelphia,Premium,113.73,39,7,0,Weekly,2026-05-14,5,0
+CUST-1421,61,Male,Chicago,Basic,24.7,8,4,2,Daily,2026-04-27,4,0
+CUST-1422,26,Male,San Jose,Standard,30.23,30,12,0,Weekly,2026-06-15,3,0
+CUST-1423,56,Male,San Jose,Premium,94.09,51,19,1,Bi-weekly,2026-06-11,4,0
+CUST-1424,29,Other,Los Angeles,Premium,82.75,35,13,2,Daily,2026-05-07,3,0
+CUST-1425,60,Female,Philadelphia,Standard,41.74,49,20,2,Monthly,2026-04-10,2,1
+CUST-1426,40,Female,Houston,Premium,119.1,40,8,0,Daily,2026-03-25,4,0
+CUST-1427,68,Male,San Antonio,Standard,51.61,19,1,1,Bi-weekly,2026-04-16,5,0
+CUST-1428,36,Other,Houston,Standard,50.56,7,1,5,Daily,2026-04-01,1,1
+CUST-1429,58,Male,San Antonio,Basic,14.11,54,23,2,Monthly,2026-03-30,2,0
+CUST-1430,27,Male,San Diego,Premium,96.54,6,1,4,Daily,2026-05-29,3,0
+CUST-1431,54,Male,Phoenix,Standard,45.52,41,13,2,Monthly,2026-05-11,2,1
+CUST-1432,25,Other,New York,Premium,127.62,5,1,0,Daily,2026-05-06,2,1
+CUST-1433,61,Female,San Jose,Basic,15.63,60,15,1,Monthly,2026-05-01,2,0
+CUST-1434,52,Male,Chicago,Premium,101.28,52,18,1,Bi-weekly,2026-03-31,3,0
+CUST-1435,74,Other,Philadelphia,Basic,21.07,36,5,0,Daily,2026-06-15,2,0
+CUST-1436,43,Other,Dallas,Basic,16.09,48,24,0,Bi-weekly,2026-05-24,5,0
+CUST-1437,72,Other,Chicago,Basic,13.68,40,9,2,Weekly,2026-06-06,3,0
+CUST-1438,54,Male,Dallas,Standard,55.79,5,2,1,Daily,2026-05-19,2,1
+CUST-1439,55,Female,Philadelphia,Standard,35.13,42,8,2,Daily,2026-05-15,2,0
+CUST-1440,38,Female,San Diego,Standard,54.65,20,10,3,Weekly,2026-04-09,3,0
+CUST-1441,45,Male,New York,Standard,39.85,15,6,1,Monthly,2026-05-16,4,0
+CUST-1442,64,Female,San Diego,Standard,47.81,50,10,2,Monthly,2026-04-11,2,1
+CUST-1443,56,Male,Phoenix,Basic,27.83,13,3,2,Daily,2026-06-11,2,0
+CUST-1444,58,Male,San Jose,Premium,102.41,38,7,1,Daily,2026-04-11,4,0
+CUST-1445,52,Female,Chicago,Standard,45.7,58,25,0,Bi-weekly,2026-06-03,5,0
+CUST-1446,23,Female,Philadelphia,Premium,70.85,16,3,0,Weekly,2026-04-24,3,0
+CUST-1447,54,Other,Chicago,Premium,128.56,23,1,2,Weekly,2026-04-19,3,1
+CUST-1448,41,Male,New York,Premium,86.54,59,26,4,Bi-weekly,2026-05-02,4,0
+CUST-1449,74,Male,New York,Premium,95.93,46,17,2,Bi-weekly,2026-05-18,3,0
+CUST-1450,42,Female,San Jose,Premium,141.86,5,2,0,Monthly,2026-05-23,5,0
+CUST-1451,73,Female,San Diego,Standard,65.49,1,1,1,Monthly,2026-05-30,3,1
+CUST-1452,59,Female,Houston,Basic,13.74,24,10,1,Daily,2026-03-28,3,0
+CUST-1453,39,Other,Los Angeles,Standard,57.01,31,4,2,Weekly,2026-03-30,5,1
+CUST-1454,20,Male,San Jose,Premium,82.89,41,17,2,Daily,2026-04-08,3,1
+CUST-1455,34,Male,Dallas,Standard,53.97,37,1,5,Bi-weekly,2026-06-10,2,1
+CUST-1456,48,Female,Chicago,Basic,26.61,39,5,0,Weekly,2026-04-02,4,1
+CUST-1457,61,Female,San Diego,Premium,117.25,15,4,1,Monthly,2026-06-04,2,1
+CUST-1458,51,Other,San Antonio,Basic,22.11,12,4,1,Daily,2026-04-13,2,1
+CUST-1459,60,Male,San Jose,Premium,136.2,58,25,1,Monthly,2026-04-15,5,0
+CUST-1460,20,Other,Dallas,Standard,39.18,52,16,0,Monthly,2026-05-07,2,1
+CUST-1461,34,Female,Houston,Basic,15.67,57,18,1,Monthly,2026-05-19,3,1
+CUST-1462,65,Male,San Jose,Premium,79.43,1,2,2,Weekly,2026-03-24,4,0
+CUST-1463,24,Male,San Antonio,Premium,116.83,17,7,2,Bi-weekly,2026-04-03,4,0
+CUST-1464,43,Male,San Antonio,Premium,132.7,31,3,2,Bi-weekly,2026-04-10,5,0
+CUST-1465,37,Other,Philadelphia,Premium,101.85,9,1,6,Weekly,2026-04-24,1,1
+CUST-1466,50,Female,Philadelphia,Premium,119.12,44,2,3,Weekly,2026-05-02,1,0
+CUST-1467,70,Male,San Diego,Premium,104.83,5,2,0,Weekly,2026-05-04,2,0
+CUST-1468,64,Female,San Antonio,Premium,122.49,19,1,2,Weekly,2026-03-31,5,0
+CUST-1469,30,Other,Dallas,Standard,37.79,51,20,1,Weekly,2026-04-03,3,0
+CUST-1470,41,Male,New York,Basic,11.74,18,7,2,Bi-weekly,2026-03-27,5,0
+CUST-1471,30,Other,New York,Premium,126.29,59,3,3,Bi-weekly,2026-04-10,3,0
+CUST-1472,70,Female,Houston,Premium,147.04,30,15,1,Monthly,2026-04-08,2,1
+CUST-1473,44,Other,Los Angeles,Premium,75.79,19,6,2,Daily,2026-04-16,4,0
+CUST-1474,70,Other,Phoenix,Premium,105.42,25,10,3,Monthly,2026-05-20,3,0
+CUST-1475,47,Other,San Diego,Premium,138.96,31,2,3,Bi-weekly,2026-06-12,4,0
+CUST-1476,32,Other,Houston,Standard,46.5,23,9,2,Daily,2026-03-23,4,1
+CUST-1477,23,Female,Philadelphia,Basic,21.09,12,4,2,Bi-weekly,2026-05-06,3,0
+CUST-1478,35,Male,Houston,Standard,59.48,16,4,1,Bi-weekly,2026-05-25,3,0
+CUST-1479,33,Other,Philadelphia,Basic,25.58,8,1,0,Monthly,2026-04-03,2,0
+CUST-1480,52,Male,San Diego,Standard,54.83,32,9,1,Monthly,2026-05-28,4,0
+CUST-1481,66,Other,Chicago,Basic,20.51,28,8,1,Daily,2026-04-17,4,0
+CUST-1482,61,Male,San Diego,Basic,23.96,30,6,4,Daily,2026-06-19,2,1
+CUST-1483,24,Female,Philadelphia,Premium,138.95,12,5,1,Bi-weekly,2026-05-21,4,0
+CUST-1484,57,Female,Philadelphia,Basic,19.98,14,4,0,Bi-weekly,2026-05-05,5,0
+CUST-1485,29,Other,Chicago,Premium,124.88,53,4,1,Bi-weekly,2026-05-21,5,0
+CUST-1486,30,Male,Chicago,Standard,62.23,12,4,3,Monthly,2026-06-03,3,0
+CUST-1487,37,Female,Dallas,Premium,73.82,7,3,2,Weekly,2026-06-13,3,0
+CUST-1488,48,Other,Los Angeles,Standard,59.78,17,6,0,Bi-weekly,2026-04-10,4,0
+CUST-1489,44,Male,Philadelphia,Premium,147.05,13,5,2,Weekly,2026-05-15,4,0
+CUST-1490,50,Female,San Diego,Basic,17.62,19,8,0,Weekly,2026-05-30,4,0
+CUST-1491,57,Other,San Antonio,Basic,11.58,22,4,2,Bi-weekly,2026-05-11,4,0
+CUST-1492,56,Other,San Antonio,Standard,65.51,50,12,1,Monthly,2026-04-29,3,0
+CUST-1493,19,Male,Houston,Premium,90.13,48,23,2,Daily,2026-05-25,3,0
+CUST-1494,24,Male,San Diego,Premium,74.31,50,13,2,Daily,2026-06-07,4,0
+CUST-1495,23,Other,San Antonio,Standard,39.17,48,10,3,Monthly,2026-04-01,2,1
+CUST-1496,71,Male,New York,Basic,23.27,56,11,0,Monthly,2026-04-22,4,0
+CUST-1497,26,Other,Dallas,Basic,21.82,30,11,0,Monthly,2026-04-14,4,0
+CUST-1498,48,Other,Houston,Basic,18.84,24,7,2,Bi-weekly,2026-06-01,4,1
+CUST-1499,51,Male,Philadelphia,Standard,48.77,1,2,2,Monthly,2026-05-13,2,0
+CUST-1500,69,Female,San Jose,Basic,25.94,36,12,5,Weekly,2026-04-29,4,0
+CUST-1501,28,Other,San Antonio,Standard,38.82,6,2,0,Weekly,2026-04-15,4,0
+CUST-1502,65,Other,Phoenix,Standard,37.52,5,1,0,Weekly,2026-05-14,2,0
+CUST-1503,57,Female,Phoenix,Premium,119.82,13,3,3,Daily,2026-06-01,1,0
+CUST-1504,19,Male,Los Angeles,Standard,40.77,46,15,0,Daily,2026-05-22,2,1
+CUST-1505,49,Male,Philadelphia,Standard,42.46,52,16,0,Bi-weekly,2026-04-22,2,1
+CUST-1506,71,Male,New York,Standard,61.03,5,2,2,Weekly,2026-05-27,4,0
+CUST-1507,71,Male,Los Angeles,Premium,89.92,50,15,1,Weekly,2026-06-16,3,0
+CUST-1508,67,Male,Dallas,Premium,148.57,31,7,1,Bi-weekly,2026-05-10,3,0
+CUST-1509,20,Other,Dallas,Premium,79.77,31,11,2,Bi-weekly,2026-05-26,4,0
+CUST-1510,73,Other,Houston,Basic,14.72,28,6,0,Daily,2026-05-30,4,0
+CUST-1511,43,Male,New York,Basic,21.62,45,16,0,Weekly,2026-05-04,2,1
+CUST-1512,49,Male,San Jose,Standard,67.23,49,21,1,Daily,2026-06-13,4,0
+CUST-1513,62,Other,Los Angeles,Basic,19.76,21,9,1,Bi-weekly,2026-04-25,3,1
+CUST-1514,42,Female,Chicago,Standard,65.95,32,15,3,Bi-weekly,2026-04-12,4,1
+CUST-1515,29,Other,Philadelphia,Standard,59.3,18,9,1,Weekly,2026-06-12,3,0
+CUST-1516,70,Female,Dallas,Standard,48.16,50,21,2,Monthly,2026-05-28,2,0
+CUST-1517,41,Other,Houston,Standard,58.84,43,18,2,Monthly,2026-05-27,5,0
+CUST-1518,27,Other,Phoenix,Standard,46.39,21,2,1,Daily,2026-04-15,2,1
+CUST-1519,26,Male,New York,Basic,12.14,13,1,1,Daily,2026-04-08,5,0
+CUST-1520,51,Other,San Jose,Standard,31.96,15,5,0,Daily,2026-06-19,3,0
+CUST-1521,74,Male,San Diego,Premium,74.86,36,14,1,Bi-weekly,2026-03-22,2,0
+CUST-1522,35,Other,New York,Premium,75.63,20,2,0,Weekly,2026-04-15,2,1
+CUST-1523,32,Other,San Antonio,Basic,13.86,43,8,1,Weekly,2026-04-10,5,0
+CUST-1524,67,Other,San Jose,Standard,56.98,45,22,3,Monthly,2026-06-07,2,0
+CUST-1525,53,Female,Dallas,Standard,56.3,35,15,0,Bi-weekly,2026-05-11,4,0
+CUST-1526,44,Other,San Antonio,Premium,95.88,16,4,0,Monthly,2026-04-11,4,0
+CUST-1527,46,Female,San Antonio,Basic,24.53,19,1,2,Weekly,2026-05-13,2,1
+CUST-1528,32,Male,Philadelphia,Basic,25.43,45,9,1,Weekly,2026-06-08,2,0
+CUST-1529,27,Male,Phoenix,Standard,65.59,16,4,4,Bi-weekly,2026-05-13,1,0
+CUST-1530,54,Male,Los Angeles,Premium,95.98,31,3,2,Monthly,2026-03-24,2,1
+CUST-1531,37,Male,San Jose,Standard,33.14,4,2,3,Bi-weekly,2026-04-26,4,0
+CUST-1532,25,Male,San Jose,Basic,22.68,41,13,3,Daily,2026-05-12,1,1
+CUST-1533,54,Male,Philadelphia,Premium,125.82,10,1,0,Monthly,2026-04-24,2,1
+CUST-1534,36,Female,Chicago,Basic,16.72,31,10,1,Daily,2026-04-11,5,0
+CUST-1535,43,Other,San Antonio,Premium,80.43,9,4,1,Weekly,2026-04-19,5,0
+CUST-1536,30,Other,San Jose,Premium,111.94,16,2,2,Bi-weekly,2026-04-26,4,0
+CUST-1537,54,Male,Los Angeles,Premium,103.09,24,6,3,Weekly,2026-05-10,3,0
+CUST-1538,19,Female,Chicago,Standard,54.65,52,15,1,Weekly,2026-04-25,2,0
+CUST-1539,32,Male,Philadelphia,Basic,25.15,55,3,3,Daily,2026-06-14,2,0
+CUST-1540,27,Female,New York,Standard,57.75,8,3,1,Monthly,2026-04-21,2,1
+CUST-1541,65,Other,Houston,Basic,20.93,49,9,0,Monthly,2026-04-02,3,0
+CUST-1542,60,Male,San Antonio,Premium,142.48,34,2,1,Bi-weekly,2026-05-30,2,1
+CUST-1543,68,Other,San Jose,Standard,32.12,42,1,3,Daily,2026-05-02,3,0
+CUST-1544,60,Female,Los Angeles,Basic,15.85,57,21,1,Monthly,2026-05-22,5,0
+CUST-1545,63,Male,Philadelphia,Standard,64.67,35,3,1,Weekly,2026-05-26,5,0
+CUST-1546,63,Male,New York,Basic,28.45,20,6,2,Monthly,2026-05-01,3,1
+CUST-1547,61,Female,Philadelphia,Premium,94.19,33,9,4,Daily,2026-04-01,3,0
+CUST-1548,74,Male,Dallas,Standard,39.02,22,7,1,Weekly,2026-06-09,5,0
+CUST-1549,61,Other,Houston,Standard,39.61,10,4,1,Bi-weekly,2026-04-04,4,0
+CUST-1550,26,Male,Chicago,Premium,113.31,52,7,3,Weekly,2026-05-12,2,1
+CUST-1551,67,Male,San Jose,Basic,16.35,36,18,2,Daily,2026-05-28,4,0
+CUST-1552,27,Other,New York,Standard,65.21,27,7,2,Bi-weekly,2026-04-25,4,0
+CUST-1553,30,Male,Chicago,Basic,10.52,40,20,2,Bi-weekly,2026-04-04,3,0
+CUST-1554,32,Other,New York,Standard,33.18,50,16,2,Weekly,2026-04-17,5,0
+CUST-1555,41,Male,San Antonio,Standard,48.95,11,2,1,Weekly,2026-06-16,5,0
+CUST-1556,18,Female,San Antonio,Basic,24.85,13,2,0,Daily,2026-05-29,5,0
+CUST-1557,49,Other,Philadelphia,Standard,65.5,28,7,2,Daily,2026-04-04,5,0
+CUST-1558,43,Other,San Jose,Premium,112.89,42,2,1,Daily,2026-04-24,5,0
+CUST-1559,20,Male,Dallas,Premium,101.65,48,2,1,Monthly,2026-04-15,2,1
+CUST-1560,46,Female,Phoenix,Standard,48.45,28,5,2,Daily,2026-03-24,3,0
+CUST-1561,59,Female,Los Angeles,Premium,110.05,12,5,0,Weekly,2026-05-01,5,0
+CUST-1562,19,Male,San Diego,Premium,141.73,58,7,0,Monthly,2026-06-09,4,0
+CUST-1563,59,Other,Chicago,Premium,128.66,6,1,1,Monthly,2026-03-31,4,1
+CUST-1564,63,Female,Dallas,Premium,145.98,25,9,2,Monthly,2026-06-15,3,0
+CUST-1565,54,Other,Chicago,Basic,27.38,12,6,2,Daily,2026-04-28,4,0
+CUST-1566,67,Female,Phoenix,Premium,84.46,58,5,0,Weekly,2026-06-20,4,1
+CUST-1567,49,Female,Dallas,Basic,22.16,32,8,0,Weekly,2026-04-06,5,0
+CUST-1568,46,Male,San Jose,Premium,70.53,57,18,3,Bi-weekly,2026-04-02,2,1
+CUST-1569,27,Male,Philadelphia,Basic,12.91,3,2,3,Bi-weekly,2026-06-09,1,1
+CUST-1570,29,Male,Phoenix,Premium,122.87,45,20,0,Weekly,2026-04-23,4,0
+CUST-1571,23,Female,Philadelphia,Standard,65.9,53,3,1,Monthly,2026-04-11,2,1
+CUST-1572,26,Male,Phoenix,Standard,51.08,34,7,2,Weekly,2026-04-03,2,1
+CUST-1573,64,Other,Dallas,Basic,19.67,45,20,0,Bi-weekly,2026-04-27,4,0
+CUST-1574,54,Other,Philadelphia,Basic,22.29,32,16,2,Monthly,2026-05-28,3,0
+CUST-1575,30,Male,Los Angeles,Basic,19.3,51,4,1,Weekly,2026-04-03,5,0
+CUST-1576,39,Female,Dallas,Premium,86.99,41,7,0,Bi-weekly,2026-05-19,2,1
+CUST-1577,50,Other,Philadelphia,Basic,12.28,22,6,2,Monthly,2026-04-09,2,0
+CUST-1578,30,Female,Philadelphia,Premium,108.33,31,13,4,Daily,2026-03-30,2,1
+CUST-1579,58,Female,Dallas,Standard,48.5,53,14,2,Daily,2026-04-15,4,0
+CUST-1580,61,Female,Dallas,Premium,71.5,37,11,0,Bi-weekly,2026-06-12,3,0
+CUST-1581,19,Female,San Antonio,Premium,112.74,11,5,1,Monthly,2026-05-28,2,0
+CUST-1582,66,Female,Philadelphia,Premium,72.53,27,2,0,Monthly,2026-05-21,4,0
+CUST-1583,37,Male,Dallas,Standard,37.0,24,1,2,Weekly,2026-06-09,5,0
+CUST-1584,69,Female,Dallas,Basic,13.8,60,16,3,Bi-weekly,2026-05-10,2,0
+CUST-1585,24,Other,Chicago,Basic,24.49,30,7,4,Daily,2026-06-20,3,0
+CUST-1586,61,Other,Los Angeles,Standard,48.68,3,1,3,Bi-weekly,2026-06-18,3,0
+CUST-1587,31,Female,Houston,Basic,15.73,35,11,3,Monthly,2026-03-27,1,1
+CUST-1588,28,Female,Los Angeles,Basic,29.17,36,17,2,Daily,2026-05-25,4,0
+CUST-1589,35,Male,Phoenix,Premium,89.59,5,2,0,Bi-weekly,2026-04-12,5,1
+CUST-1590,19,Female,New York,Basic,17.67,6,2,2,Monthly,2026-05-29,5,0
+CUST-1591,37,Female,Houston,Premium,130.67,52,18,4,Daily,2026-04-22,2,1
+CUST-1592,69,Other,San Diego,Basic,19.11,44,21,3,Monthly,2026-04-21,2,0
+CUST-1593,27,Other,Phoenix,Standard,45.68,45,22,4,Bi-weekly,2026-05-10,4,0
+CUST-1594,22,Female,Los Angeles,Standard,49.15,55,6,1,Bi-weekly,2026-05-07,3,0
+CUST-1595,43,Other,Los Angeles,Standard,52.25,5,2,1,Monthly,2026-04-30,5,0
+CUST-1596,33,Other,Chicago,Standard,45.35,22,4,1,Monthly,2026-04-26,4,0
+CUST-1597,33,Male,Los Angeles,Premium,144.47,37,16,2,Daily,2026-04-06,5,0
+CUST-1598,24,Female,Chicago,Standard,68.24,5,1,1,Monthly,2026-05-10,5,0
+CUST-1599,21,Male,Houston,Basic,27.75,58,25,1,Daily,2026-06-02,3,0
+CUST-1600,36,Female,San Jose,Premium,105.77,14,6,0,Bi-weekly,2026-05-13,4,0
+CUST-1601,45,Other,Philadelphia,Basic,21.65,40,17,3,Monthly,2026-06-04,3,0
+CUST-1602,75,Other,New York,Basic,24.07,53,12,2,Daily,2026-05-15,2,1
+CUST-1603,62,Other,San Antonio,Premium,95.45,25,7,1,Monthly,2026-04-26,3,0
+CUST-1604,48,Male,Houston,Premium,100.77,60,12,1,Monthly,2026-06-01,4,0
+CUST-1605,60,Male,Chicago,Basic,11.43,2,1,2,Monthly,2026-03-28,5,0
+CUST-1606,26,Male,Chicago,Premium,134.48,56,15,5,Monthly,2026-04-02,2,1
+CUST-1607,45,Other,San Diego,Standard,44.21,12,4,0,Daily,2026-04-08,5,0
+CUST-1608,33,Other,Dallas,Standard,46.43,35,12,0,Daily,2026-06-16,5,0
+CUST-1609,25,Other,San Diego,Premium,76.41,47,17,2,Bi-weekly,2026-04-22,2,0
+CUST-1610,57,Male,Houston,Standard,55.23,43,3,1,Bi-weekly,2026-04-03,2,0
+CUST-1611,52,Male,San Diego,Standard,50.51,31,10,2,Bi-weekly,2026-04-28,4,0
+CUST-1612,69,Female,Phoenix,Basic,10.71,60,20,1,Bi-weekly,2026-04-09,4,1
+CUST-1613,48,Other,Chicago,Premium,74.13,19,1,1,Bi-weekly,2026-04-19,2,1
+CUST-1614,22,Female,Phoenix,Basic,22.32,18,5,2,Daily,2026-06-06,3,0
+CUST-1615,65,Male,San Diego,Standard,62.31,17,4,2,Monthly,2026-05-28,2,1
+CUST-1616,23,Male,San Jose,Basic,26.75,49,14,1,Monthly,2026-05-21,5,0
+CUST-1617,28,Male,San Jose,Premium,137.35,4,2,0,Daily,2026-06-14,3,0
+CUST-1618,48,Female,San Diego,Premium,145.86,60,18,1,Weekly,2026-05-03,5,0
+CUST-1619,27,Other,San Antonio,Basic,15.78,52,15,2,Monthly,2026-03-26,4,0
+CUST-1620,61,Male,Los Angeles,Premium,120.99,55,14,1,Bi-weekly,2026-05-09,4,0
+CUST-1621,24,Female,San Jose,Standard,48.44,44,8,3,Weekly,2026-04-15,3,0
+CUST-1622,29,Female,Dallas,Basic,23.46,54,3,0,Daily,2026-04-29,2,0
+CUST-1623,61,Female,Philadelphia,Basic,24.51,17,4,5,Daily,2026-06-17,1,1
+CUST-1624,56,Other,Houston,Premium,121.05,46,4,0,Daily,2026-04-04,3,0
+CUST-1625,66,Other,San Jose,Basic,27.92,45,6,2,Bi-weekly,2026-05-14,5,0
+CUST-1626,22,Other,San Diego,Standard,60.77,45,22,2,Bi-weekly,2026-05-19,3,0
+CUST-1627,35,Male,San Antonio,Standard,43.31,4,2,1,Bi-weekly,2026-05-29,5,1
+CUST-1628,30,Other,San Antonio,Basic,22.91,7,1,3,Monthly,2026-05-24,1,0
+CUST-1629,63,Female,Los Angeles,Basic,11.46,37,9,2,Monthly,2026-06-18,5,0
+CUST-1630,58,Male,New York,Premium,101.24,10,3,0,Monthly,2026-04-08,2,1
+CUST-1631,67,Female,San Diego,Standard,46.16,47,3,2,Weekly,2026-06-20,5,0
+CUST-1632,70,Female,Los Angeles,Premium,112.82,23,6,0,Bi-weekly,2026-04-30,2,0
+CUST-1633,59,Male,Philadelphia,Premium,138.27,22,2,0,Monthly,2026-05-14,3,0
+CUST-1634,20,Female,Houston,Standard,57.84,58,4,2,Bi-weekly,2026-04-19,2,0
+CUST-1635,46,Other,Houston,Basic,10.71,2,1,1,Monthly,2026-05-02,2,0
+CUST-1636,59,Female,San Diego,Premium,147.2,52,15,3,Daily,2026-06-16,3,0
+CUST-1637,68,Other,New York,Standard,34.73,52,21,2,Monthly,2026-03-26,3,0
+CUST-1638,32,Male,New York,Premium,81.33,42,1,3,Monthly,2026-04-02,1,1
+CUST-1639,59,Male,New York,Basic,22.65,58,10,0,Daily,2026-04-23,3,0
+CUST-1640,22,Male,Los Angeles,Standard,53.8,40,8,2,Daily,2026-05-26,5,0
+CUST-1641,71,Other,San Antonio,Standard,34.83,44,19,0,Weekly,2026-05-10,3,0
+CUST-1642,55,Male,Philadelphia,Basic,12.41,10,4,0,Weekly,2026-03-23,4,0
+CUST-1643,46,Male,San Jose,Basic,12.67,51,21,1,Monthly,2026-05-31,2,0
+CUST-1644,23,Male,New York,Basic,28.52,46,21,1,Bi-weekly,2026-04-28,5,0
+CUST-1645,31,Male,Phoenix,Premium,106.03,16,3,1,Daily,2026-04-05,3,0
+CUST-1646,57,Male,Phoenix,Standard,46.75,36,8,1,Weekly,2026-06-05,2,0
+CUST-1647,73,Other,Dallas,Basic,19.28,41,7,1,Bi-weekly,2026-06-14,3,0
+CUST-1648,27,Other,San Diego,Standard,37.05,43,2,3,Daily,2026-03-30,3,0
+CUST-1649,45,Female,Philadelphia,Premium,134.41,49,15,1,Daily,2026-06-07,2,0
+CUST-1650,29,Male,New York,Standard,50.6,5,1,4,Monthly,2026-04-06,3,0
+CUST-1651,65,Other,Philadelphia,Basic,25.58,21,4,1,Daily,2026-05-21,5,0
+CUST-1652,42,Male,Los Angeles,Standard,53.4,4,2,2,Weekly,2026-05-24,5,0
+CUST-1653,41,Male,San Diego,Premium,85.53,23,5,1,Weekly,2026-05-09,3,1
+CUST-1654,54,Male,Phoenix,Basic,12.22,30,8,1,Monthly,2026-05-30,4,0
+CUST-1655,36,Other,Chicago,Premium,146.22,58,6,2,Weekly,2026-06-09,5,0
+CUST-1656,49,Male,San Jose,Standard,63.48,18,1,3,Monthly,2026-05-20,2,1
+CUST-1657,55,Male,San Jose,Basic,28.28,58,1,1,Monthly,2026-06-15,2,0
+CUST-1658,64,Other,New York,Standard,51.24,31,13,4,Daily,2026-04-24,4,0
+CUST-1659,53,Male,San Antonio,Basic,12.65,19,4,1,Daily,2026-06-18,5,0
+CUST-1660,28,Other,San Diego,Premium,129.78,2,2,1,Monthly,2026-06-03,5,0
+CUST-1661,73,Female,San Diego,Premium,120.67,56,21,3,Daily,2026-05-02,3,0
+CUST-1662,36,Female,Phoenix,Premium,145.69,35,7,1,Daily,2026-04-02,4,0
+CUST-1663,21,Other,Philadelphia,Basic,12.22,24,8,1,Daily,2026-05-05,4,0
+CUST-1664,53,Other,Los Angeles,Premium,126.75,14,2,2,Bi-weekly,2026-05-21,2,0
+CUST-1665,65,Other,Houston,Premium,130.87,21,6,1,Bi-weekly,2026-04-17,5,0
+CUST-1666,22,Female,Philadelphia,Standard,49.45,34,4,3,Monthly,2026-03-22,3,0
+CUST-1667,41,Other,Los Angeles,Basic,27.84,30,2,2,Daily,2026-05-01,3,0
+CUST-1668,22,Male,Chicago,Standard,34.48,10,4,1,Weekly,2026-05-25,2,1
+CUST-1669,61,Other,Chicago,Standard,43.87,29,12,4,Daily,2026-05-14,2,1
+CUST-1670,73,Male,Dallas,Premium,96.87,38,11,2,Bi-weekly,2026-04-19,5,0
+CUST-1671,54,Male,Phoenix,Basic,25.79,15,4,1,Bi-weekly,2026-05-15,2,1
+CUST-1672,36,Female,Chicago,Premium,143.93,46,18,3,Bi-weekly,2026-05-28,2,0
+CUST-1673,62,Other,Chicago,Basic,14.76,3,2,1,Weekly,2026-04-25,4,0
+CUST-1674,31,Other,New York,Premium,95.36,23,3,4,Bi-weekly,2026-04-24,2,0
+CUST-1675,25,Male,San Antonio,Standard,60.74,30,15,0,Bi-weekly,2026-06-01,2,0
+CUST-1676,52,Other,Philadelphia,Premium,126.44,31,15,1,Bi-weekly,2026-04-08,3,0
+CUST-1677,64,Female,Philadelphia,Premium,78.99,31,15,0,Daily,2026-06-03,2,1
+CUST-1678,43,Other,Houston,Standard,44.3,21,1,1,Weekly,2026-04-07,3,0
+CUST-1679,67,Female,Houston,Basic,11.67,55,15,0,Daily,2026-04-16,5,1
+CUST-1680,38,Other,San Jose,Premium,145.47,59,22,0,Bi-weekly,2026-05-01,3,0
+CUST-1681,45,Female,San Antonio,Standard,30.49,23,6,3,Bi-weekly,2026-04-24,1,1
+CUST-1682,74,Female,San Antonio,Standard,41.55,52,24,1,Monthly,2026-04-28,3,0
+CUST-1683,56,Male,Chicago,Basic,16.06,56,17,1,Bi-weekly,2026-06-12,5,0
+CUST-1684,44,Other,Phoenix,Standard,37.0,30,12,1,Weekly,2026-05-26,3,0
+CUST-1685,36,Other,San Diego,Basic,26.46,20,10,2,Bi-weekly,2026-04-18,5,1
+CUST-1686,68,Male,Chicago,Standard,42.01,41,16,0,Daily,2026-03-29,4,0
+CUST-1687,49,Other,Houston,Basic,12.39,18,8,2,Daily,2026-04-05,4,0
+CUST-1688,54,Female,Phoenix,Premium,124.87,45,4,1,Bi-weekly,2026-04-16,2,0
+CUST-1689,28,Other,New York,Basic,16.39,57,23,2,Weekly,2026-05-06,3,0
+CUST-1690,41,Female,Philadelphia,Basic,15.8,34,3,0,Weekly,2026-04-01,3,0
+CUST-1691,56,Male,Dallas,Standard,64.9,53,22,0,Bi-weekly,2026-05-17,4,0
+CUST-1692,55,Female,Chicago,Basic,12.74,19,6,1,Monthly,2026-04-29,4,0
+CUST-1693,28,Male,Houston,Basic,20.07,54,7,1,Daily,2026-04-28,5,0
+CUST-1694,25,Male,New York,Standard,43.93,45,12,4,Weekly,2026-04-25,3,0
+CUST-1695,37,Male,Los Angeles,Basic,12.57,45,5,2,Weekly,2026-05-12,3,0
+CUST-1696,23,Female,Los Angeles,Basic,10.38,31,13,0,Monthly,2026-06-15,3,0
+CUST-1697,68,Other,Dallas,Premium,74.74,8,3,2,Daily,2026-06-12,4,0
+CUST-1698,66,Male,Los Angeles,Premium,86.43,58,7,1,Weekly,2026-03-27,4,1
+CUST-1699,27,Other,Phoenix,Premium,97.83,11,5,3,Weekly,2026-04-17,1,1
+CUST-1700,55,Male,Dallas,Basic,24.32,19,3,1,Daily,2026-06-08,3,0
+CUST-1701,72,Other,San Diego,Standard,57.93,12,4,0,Daily,2026-05-28,4,0
+CUST-1702,45,Male,Dallas,Basic,18.15,49,11,1,Daily,2026-04-22,2,0
+CUST-1703,49,Female,Phoenix,Premium,127.77,6,2,0,Monthly,2026-06-06,5,0
+CUST-1704,56,Other,Phoenix,Premium,148.09,29,4,1,Monthly,2026-05-14,5,0
+CUST-1705,22,Female,Philadelphia,Basic,10.26,44,16,0,Daily,2026-05-01,5,0
+CUST-1706,61,Male,Los Angeles,Basic,17.9,45,19,2,Daily,2026-05-30,2,1
+CUST-1707,30,Female,Houston,Premium,137.52,26,2,2,Weekly,2026-04-27,5,0
+CUST-1708,63,Other,San Jose,Standard,60.25,52,21,2,Monthly,2026-05-06,5,0
+CUST-1709,43,Female,Dallas,Standard,35.89,30,2,0,Daily,2026-05-19,5,0
+CUST-1710,58,Male,New York,Basic,24.76,54,3,1,Monthly,2026-03-26,2,0
+CUST-1711,42,Other,Philadelphia,Basic,16.06,40,4,2,Daily,2026-03-28,5,0
+CUST-1712,30,Female,San Diego,Standard,50.19,35,11,1,Daily,2026-06-16,5,0
+CUST-1713,25,Female,San Diego,Standard,64.11,29,8,5,Daily,2026-06-16,2,0
+CUST-1714,73,Female,Chicago,Standard,47.23,20,7,2,Monthly,2026-06-06,5,0
+CUST-1715,61,Other,San Jose,Standard,49.04,55,6,1,Daily,2026-05-01,4,0
+CUST-1716,42,Other,Philadelphia,Standard,42.82,2,1,3,Weekly,2026-05-05,3,0
+CUST-1717,55,Male,Philadelphia,Standard,33.89,23,6,3,Monthly,2026-05-07,1,0
+CUST-1718,33,Male,Phoenix,Premium,76.8,45,3,1,Bi-weekly,2026-06-06,4,0
+CUST-1719,52,Female,New York,Standard,56.31,28,10,3,Monthly,2026-05-17,1,0
+CUST-1720,55,Male,Philadelphia,Standard,52.81,21,10,0,Daily,2026-04-19,2,0
+CUST-1721,31,Female,San Diego,Premium,134.92,43,11,1,Weekly,2026-04-03,4,0
+CUST-1722,45,Male,San Diego,Premium,137.79,51,3,0,Weekly,2026-05-15,4,1
+CUST-1723,54,Female,Houston,Premium,129.43,6,3,0,Daily,2026-04-06,4,0
+CUST-1724,54,Other,San Diego,Standard,38.39,51,3,3,Bi-weekly,2026-04-17,3,0
+CUST-1725,52,Female,Houston,Standard,46.09,40,17,2,Monthly,2026-03-27,3,0
+CUST-1726,58,Other,Dallas,Basic,21.54,14,6,0,Monthly,2026-05-17,5,0
+CUST-1727,64,Other,New York,Premium,86.05,30,3,0,Weekly,2026-06-01,4,0
+CUST-1728,44,Female,Los Angeles,Premium,86.28,27,5,0,Bi-weekly,2026-03-30,3,0
+CUST-1729,56,Male,San Antonio,Basic,12.27,13,1,2,Weekly,2026-05-12,5,0
+CUST-1730,45,Female,New York,Basic,13.19,9,1,0,Bi-weekly,2026-05-16,3,0
+CUST-1731,20,Other,San Diego,Basic,11.11,58,3,0,Bi-weekly,2026-04-04,4,0
+CUST-1732,75,Female,Philadelphia,Premium,122.59,6,2,2,Weekly,2026-05-21,2,0
+CUST-1733,50,Male,Dallas,Premium,136.32,50,17,2,Bi-weekly,2026-04-18,2,1
+CUST-1734,25,Female,Philadelphia,Premium,128.98,52,24,0,Weekly,2026-04-27,3,0
+CUST-1735,29,Male,Phoenix,Standard,46.34,56,19,3,Daily,2026-04-19,3,0
+CUST-1736,25,Female,Dallas,Standard,48.99,16,5,0,Weekly,2026-05-05,5,0
+CUST-1737,70,Female,New York,Premium,147.34,39,2,3,Daily,2026-03-24,2,1
+CUST-1738,42,Female,Philadelphia,Premium,79.76,56,8,3,Monthly,2026-05-02,1,0
+CUST-1739,43,Female,Phoenix,Basic,28.73,49,8,1,Bi-weekly,2026-05-25,3,0
+CUST-1740,58,Female,San Antonio,Basic,15.48,6,2,2,Monthly,2026-04-29,4,0
+CUST-1741,74,Male,Chicago,Premium,90.88,5,2,1,Monthly,2026-04-04,4,0
+CUST-1742,19,Male,Chicago,Premium,105.47,42,5,3,Daily,2026-04-30,2,0
+CUST-1743,38,Other,Los Angeles,Basic,13.16,34,5,0,Monthly,2026-05-11,5,0
+CUST-1744,65,Male,Phoenix,Basic,23.75,53,11,0,Bi-weekly,2026-05-26,2,1
+CUST-1745,29,Female,San Antonio,Premium,87.96,2,1,2,Daily,2026-04-22,3,0
+CUST-1746,72,Male,New York,Standard,54.72,39,9,4,Weekly,2026-06-09,3,0
+CUST-1747,54,Male,New York,Premium,112.07,50,15,3,Monthly,2026-06-05,2,0
+CUST-1748,30,Female,Phoenix,Premium,109.53,9,4,2,Weekly,2026-04-05,3,0
+CUST-1749,36,Other,Houston,Standard,37.21,51,5,3,Daily,2026-05-14,3,0
+CUST-1750,46,Male,Philadelphia,Premium,124.74,30,2,0,Daily,2026-04-21,3,0
+CUST-1751,62,Female,Houston,Premium,100.68,28,12,0,Bi-weekly,2026-06-11,2,0
+CUST-1752,21,Female,Houston,Standard,66.33,39,2,2,Daily,2026-05-19,5,0
+CUST-1753,43,Other,Philadelphia,Basic,29.36,36,2,3,Weekly,2026-05-18,2,0
+CUST-1754,39,Female,Chicago,Basic,16.35,34,14,2,Weekly,2026-05-18,2,1
+CUST-1755,26,Female,Phoenix,Premium,98.85,28,5,3,Bi-weekly,2026-04-03,3,0
+CUST-1756,45,Male,Philadelphia,Premium,149.57,49,5,1,Monthly,2026-06-14,3,0
+CUST-1757,32,Male,New York,Standard,40.41,46,15,1,Monthly,2026-06-06,5,1
+CUST-1758,40,Other,Dallas,Standard,48.31,8,2,1,Daily,2026-05-07,2,1
+CUST-1759,36,Male,Chicago,Premium,110.7,18,4,1,Daily,2026-04-14,3,0
+CUST-1760,22,Male,San Diego,Premium,77.54,22,1,2,Bi-weekly,2026-03-25,2,1
+CUST-1761,55,Male,Philadelphia,Basic,10.58,30,14,3,Monthly,2026-04-23,3,0
+CUST-1762,18,Female,New York,Premium,119.79,29,6,2,Weekly,2026-05-24,2,0
+CUST-1763,36,Female,New York,Premium,75.66,39,13,0,Daily,2026-04-30,4,0
+CUST-1764,67,Female,Los Angeles,Basic,27.05,11,4,1,Monthly,2026-05-15,3,0
+CUST-1765,49,Female,Phoenix,Premium,118.28,23,11,1,Daily,2026-05-04,3,0
+CUST-1766,74,Female,San Diego,Standard,52.52,28,2,2,Monthly,2026-05-04,3,0
+CUST-1767,45,Male,New York,Premium,97.34,30,11,0,Weekly,2026-03-30,3,0
+CUST-1768,51,Other,Dallas,Basic,15.81,28,2,3,Monthly,2026-05-13,2,0
+CUST-1769,61,Female,Houston,Premium,104.22,37,2,3,Daily,2026-06-15,1,0
+CUST-1770,44,Male,San Diego,Premium,127.62,53,9,1,Bi-weekly,2026-05-19,2,0
+CUST-1771,19,Male,San Diego,Basic,25.72,54,13,1,Daily,2026-06-10,5,0
+CUST-1772,37,Female,San Jose,Premium,106.4,43,15,1,Bi-weekly,2026-05-08,3,0
+CUST-1773,23,Other,San Jose,Standard,64.86,7,2,1,Daily,2026-06-20,5,0
+CUST-1774,28,Other,San Diego,Standard,57.67,56,22,2,Monthly,2026-05-13,4,0
+CUST-1775,62,Other,San Antonio,Standard,33.51,9,1,0,Weekly,2026-06-06,2,0
+CUST-1776,30,Male,Houston,Standard,55.94,42,8,2,Monthly,2026-04-01,3,1
+CUST-1777,67,Female,Chicago,Standard,46.88,8,2,3,Weekly,2026-03-23,4,0
+CUST-1778,48,Male,San Diego,Premium,89.41,19,7,2,Daily,2026-05-09,2,1
+CUST-1779,72,Other,San Antonio,Standard,63.94,48,19,0,Bi-weekly,2026-06-16,5,0
+CUST-1780,50,Other,San Jose,Premium,142.41,56,16,2,Weekly,2026-06-13,2,1
+CUST-1781,38,Other,Los Angeles,Standard,65.72,27,8,2,Daily,2026-04-18,4,0
+CUST-1782,45,Male,Chicago,Standard,59.05,31,6,0,Monthly,2026-05-22,3,0
+CUST-1783,61,Female,San Jose,Premium,122.56,9,3,1,Monthly,2026-04-28,4,0
+CUST-1784,69,Male,San Jose,Basic,15.65,48,3,0,Monthly,2026-06-04,3,0
+CUST-1785,56,Female,Los Angeles,Standard,67.72,32,10,0,Weekly,2026-05-25,2,0
+CUST-1786,40,Female,Philadelphia,Premium,82.69,53,17,5,Daily,2026-06-12,3,0
+CUST-1787,57,Male,Los Angeles,Premium,87.93,17,6,2,Bi-weekly,2026-06-15,4,0
+CUST-1788,72,Other,Dallas,Premium,123.56,46,2,2,Monthly,2026-04-23,2,0
+CUST-1789,68,Other,San Jose,Basic,26.47,3,1,2,Weekly,2026-04-01,2,0
+CUST-1790,41,Male,Phoenix,Premium,105.32,33,16,1,Daily,2026-06-01,4,0
+CUST-1791,26,Male,Houston,Standard,68.79,50,25,0,Daily,2026-05-20,5,0
+CUST-1792,50,Male,Los Angeles,Standard,44.9,49,14,0,Bi-weekly,2026-04-01,3,1
+CUST-1793,66,Other,San Antonio,Basic,12.76,28,7,2,Monthly,2026-04-23,4,0
+CUST-1794,46,Male,New York,Premium,134.5,5,1,2,Bi-weekly,2026-05-11,5,0
+CUST-1795,28,Female,New York,Standard,60.37,43,21,3,Weekly,2026-04-08,1,0
+CUST-1796,63,Other,Dallas,Standard,46.77,57,22,2,Bi-weekly,2026-05-11,4,1
+CUST-1797,35,Other,San Jose,Basic,24.01,29,11,0,Weekly,2026-04-12,5,0
+CUST-1798,74,Other,San Antonio,Basic,27.62,6,1,0,Bi-weekly,2026-05-02,3,0
+CUST-1799,52,Female,Houston,Basic,20.23,20,9,2,Bi-weekly,2026-03-31,3,1
+CUST-1800,74,Other,San Jose,Standard,39.65,50,10,2,Monthly,2026-04-17,2,0
+CUST-1801,71,Female,Phoenix,Premium,110.6,8,1,1,Daily,2026-04-24,4,0
+CUST-1802,18,Female,Philadelphia,Basic,26.11,38,19,3,Weekly,2026-05-07,3,0
+CUST-1803,68,Other,San Jose,Premium,81.2,25,9,0,Weekly,2026-06-07,4,0
+CUST-1804,30,Female,San Diego,Basic,12.93,28,14,1,Monthly,2026-06-10,2,1
+CUST-1805,74,Male,San Diego,Basic,18.92,24,11,2,Monthly,2026-04-06,5,0
+CUST-1806,55,Female,San Antonio,Standard,57.56,32,14,1,Weekly,2026-06-02,3,0
+CUST-1807,47,Male,Dallas,Premium,79.44,14,4,2,Monthly,2026-06-16,3,0
+CUST-1808,41,Male,San Jose,Standard,34.41,24,10,1,Bi-weekly,2026-06-15,3,0
+CUST-1809,37,Female,Phoenix,Standard,49.44,51,5,0,Weekly,2026-04-06,5,1
+CUST-1810,75,Female,Phoenix,Basic,13.66,48,16,1,Daily,2026-06-05,4,0
+CUST-1811,20,Female,San Diego,Premium,94.78,29,6,1,Monthly,2026-04-21,3,0
+CUST-1812,50,Other,San Diego,Standard,56.69,10,3,2,Daily,2026-04-02,5,0
+CUST-1813,75,Female,Philadelphia,Premium,73.67,43,15,4,Bi-weekly,2026-03-30,1,0
+CUST-1814,63,Male,San Jose,Premium,133.69,46,10,1,Daily,2026-03-30,2,1
+CUST-1815,57,Other,San Jose,Basic,29.15,34,7,2,Monthly,2026-04-17,2,1
+CUST-1816,52,Male,New York,Standard,61.47,16,8,1,Daily,2026-04-13,4,0
+CUST-1817,20,Female,New York,Standard,47.48,27,1,3,Bi-weekly,2026-05-03,3,0
+CUST-1818,24,Other,Chicago,Standard,35.76,17,2,1,Weekly,2026-05-12,5,0
+CUST-1819,21,Other,Philadelphia,Basic,10.54,4,2,0,Monthly,2026-06-08,4,1
+CUST-1820,75,Female,Phoenix,Standard,67.66,58,4,1,Daily,2026-05-26,3,0
+CUST-1821,55,Male,San Diego,Premium,130.19,25,2,3,Bi-weekly,2026-06-13,3,0
+CUST-1822,44,Male,San Diego,Basic,18.15,15,1,2,Bi-weekly,2026-04-11,2,1
+CUST-1823,53,Other,Chicago,Standard,52.73,29,2,2,Weekly,2026-06-02,4,0
+CUST-1824,28,Male,Dallas,Standard,68.45,36,15,1,Daily,2026-06-20,5,0
+CUST-1825,57,Female,Chicago,Basic,11.2,59,16,0,Bi-weekly,2026-04-05,4,0
+CUST-1826,42,Female,Houston,Premium,137.25,19,1,4,Weekly,2026-04-13,1,1
+CUST-1827,43,Other,Los Angeles,Basic,24.5,18,7,2,Weekly,2026-04-03,4,0
+CUST-1828,39,Other,Phoenix,Premium,106.22,16,6,2,Bi-weekly,2026-05-25,5,0
+CUST-1829,39,Male,Chicago,Premium,143.78,39,16,0,Daily,2026-06-19,3,0
+CUST-1830,75,Other,San Diego,Standard,51.53,51,21,1,Daily,2026-04-13,2,0
+CUST-1831,70,Other,San Diego,Premium,79.87,53,13,1,Bi-weekly,2026-05-02,3,0
+CUST-1832,69,Other,New York,Basic,19.25,60,7,2,Monthly,2026-06-19,3,0
+CUST-1833,66,Female,Philadelphia,Basic,11.8,40,10,0,Weekly,2026-05-22,5,0
+CUST-1834,20,Female,San Diego,Premium,126.56,14,1,3,Weekly,2026-03-31,4,1
+CUST-1835,35,Other,Dallas,Standard,36.82,13,6,3,Weekly,2026-06-12,2,0
+CUST-1836,26,Female,San Jose,Basic,27.62,47,9,0,Weekly,2026-03-26,2,0
+CUST-1837,62,Other,Dallas,Premium,90.23,36,15,3,Daily,2026-04-27,1,0
+CUST-1838,38,Female,San Antonio,Standard,34.87,34,15,0,Monthly,2026-05-05,2,0
+CUST-1839,32,Male,Phoenix,Standard,51.3,21,1,2,Monthly,2026-05-27,4,0
+CUST-1840,54,Male,Houston,Premium,103.91,5,1,2,Weekly,2026-05-30,4,0
+CUST-1841,58,Other,Los Angeles,Basic,19.6,52,1,1,Bi-weekly,2026-05-19,3,0
+CUST-1842,33,Female,New York,Standard,50.79,16,2,4,Monthly,2026-06-08,4,0
+CUST-1843,23,Male,New York,Standard,42.53,55,23,2,Daily,2026-06-04,2,0
+CUST-1844,46,Male,Phoenix,Premium,120.09,5,1,2,Daily,2026-04-10,2,1
+CUST-1845,42,Female,Los Angeles,Premium,130.16,15,7,2,Daily,2026-04-23,5,0
+CUST-1846,45,Other,San Jose,Basic,16.79,44,1,1,Monthly,2026-04-15,4,0
+CUST-1847,24,Male,New York,Premium,127.06,38,7,0,Weekly,2026-03-31,4,0
+CUST-1848,48,Other,San Jose,Standard,37.44,9,1,0,Daily,2026-06-04,4,0
+CUST-1849,50,Other,Philadelphia,Standard,53.35,35,5,2,Weekly,2026-04-21,4,0
+CUST-1850,36,Female,New York,Premium,116.92,44,5,2,Daily,2026-05-21,2,1
+CUST-1851,30,Male,Houston,Basic,16.83,43,16,4,Monthly,2026-04-05,3,0
+CUST-1852,54,Female,San Jose,Standard,46.75,11,1,3,Monthly,2026-06-15,4,0
+CUST-1853,18,Other,Houston,Premium,88.42,40,7,2,Weekly,2026-04-20,4,0
+CUST-1854,42,Male,San Antonio,Basic,26.52,1,2,0,Daily,2026-06-11,4,1
+CUST-1855,25,Male,Phoenix,Standard,37.78,38,12,2,Daily,2026-06-17,3,0
+CUST-1856,29,Male,Phoenix,Premium,83.94,55,18,1,Weekly,2026-05-29,3,1
+CUST-1857,71,Female,Los Angeles,Basic,26.63,9,4,1,Daily,2026-05-08,3,0
+CUST-1858,33,Female,Philadelphia,Premium,83.71,34,14,4,Daily,2026-06-05,2,0
+CUST-1859,26,Male,Houston,Premium,100.26,24,6,2,Monthly,2026-03-31,3,0
+CUST-1860,66,Other,San Jose,Basic,27.09,19,3,1,Bi-weekly,2026-05-20,2,0
+CUST-1861,35,Male,Dallas,Premium,140.87,14,6,2,Daily,2026-04-21,2,1
+CUST-1862,42,Other,Dallas,Standard,49.94,30,3,2,Bi-weekly,2026-05-04,5,0
+CUST-1863,49,Female,Phoenix,Premium,102.08,59,26,1,Daily,2026-05-25,3,0
+CUST-1864,46,Male,San Antonio,Basic,16.12,57,13,1,Weekly,2026-05-04,4,0
+CUST-1865,26,Male,Phoenix,Standard,50.75,15,5,3,Daily,2026-04-22,3,0
+CUST-1866,47,Female,San Antonio,Standard,62.18,21,5,4,Monthly,2026-06-17,2,1
+CUST-1867,34,Other,Los Angeles,Standard,66.06,19,9,1,Daily,2026-05-16,3,0
+CUST-1868,22,Female,New York,Premium,86.02,13,6,1,Bi-weekly,2026-05-19,4,0
+CUST-1869,67,Other,Phoenix,Basic,24.11,9,3,0,Daily,2026-05-13,4,0
+CUST-1870,68,Female,San Antonio,Premium,130.62,1,2,1,Weekly,2026-05-01,3,0
+CUST-1871,65,Male,San Diego,Basic,20.32,51,18,2,Monthly,2026-04-22,4,0
+CUST-1872,38,Male,San Antonio,Premium,103.42,29,8,2,Daily,2026-05-04,3,0
+CUST-1873,26,Female,New York,Standard,62.42,54,12,0,Bi-weekly,2026-05-23,5,0
+CUST-1874,66,Female,Dallas,Standard,43.04,2,1,0,Weekly,2026-06-01,4,0
+CUST-1875,69,Other,San Jose,Premium,139.36,25,4,1,Monthly,2026-06-12,5,0
+CUST-1876,24,Female,San Jose,Standard,55.56,20,2,5,Weekly,2026-06-07,2,1
+CUST-1877,62,Other,San Diego,Basic,13.73,5,2,3,Bi-weekly,2026-05-25,2,1
+CUST-1878,51,Male,San Diego,Basic,17.37,1,1,1,Bi-weekly,2026-04-29,5,0
+CUST-1879,25,Male,Dallas,Standard,49.13,5,2,2,Weekly,2026-06-04,3,0
+CUST-1880,70,Other,San Diego,Basic,22.07,20,10,1,Weekly,2026-04-17,5,0
+CUST-1881,18,Male,San Diego,Basic,26.49,39,8,1,Bi-weekly,2026-04-09,5,0
+CUST-1882,54,Male,Los Angeles,Standard,55.85,59,15,2,Bi-weekly,2026-03-23,4,0
+CUST-1883,70,Male,San Antonio,Basic,13.59,40,14,3,Monthly,2026-05-02,2,0
+CUST-1884,24,Female,New York,Basic,27.71,11,3,1,Bi-weekly,2026-03-27,2,0
+CUST-1885,64,Male,San Diego,Standard,69.7,36,4,2,Bi-weekly,2026-06-11,2,0
+CUST-1886,67,Female,San Antonio,Standard,36.59,14,5,2,Daily,2026-04-22,2,1
+CUST-1887,62,Other,San Diego,Standard,43.75,26,4,0,Monthly,2026-06-16,2,1
+CUST-1888,63,Male,Philadelphia,Premium,129.89,32,15,2,Daily,2026-06-10,3,0
+CUST-1889,46,Male,San Diego,Standard,63.66,11,1,1,Daily,2026-05-29,4,0
+CUST-1890,65,Female,Chicago,Basic,23.43,1,2,1,Weekly,2026-04-25,4,0
+CUST-1891,63,Male,Dallas,Basic,18.84,4,1,1,Monthly,2026-03-24,4,0
+CUST-1892,56,Male,New York,Standard,60.68,60,8,1,Bi-weekly,2026-05-21,3,0
+CUST-1893,44,Male,New York,Standard,62.82,44,22,0,Daily,2026-05-23,2,0
+CUST-1894,71,Other,Chicago,Premium,83.36,27,9,5,Daily,2026-05-10,3,0
+CUST-1895,30,Other,Houston,Premium,101.61,28,2,0,Weekly,2026-05-24,2,1
+CUST-1896,29,Male,San Antonio,Premium,95.3,25,4,1,Monthly,2026-05-23,2,0
+CUST-1897,35,Other,San Jose,Standard,31.76,57,7,0,Monthly,2026-05-13,5,0
+CUST-1898,24,Other,Dallas,Premium,83.72,7,3,4,Bi-weekly,2026-04-01,4,0
+CUST-1899,67,Other,Chicago,Standard,37.01,49,23,2,Bi-weekly,2026-03-27,5,1
+CUST-1900,19,Other,San Jose,Standard,45.29,41,8,0,Daily,2026-05-22,2,0
+CUST-1901,75,Male,Phoenix,Basic,24.76,49,8,5,Daily,2026-06-13,2,1
+CUST-1902,36,Male,Chicago,Standard,38.18,3,1,1,Monthly,2026-05-09,3,0
+CUST-1903,59,Male,Dallas,Standard,55.92,19,1,2,Weekly,2026-05-09,4,0
+CUST-1904,52,Male,Houston,Premium,125.7,15,5,3,Monthly,2026-04-15,3,1
+CUST-1905,58,Male,Los Angeles,Standard,32.8,13,1,2,Weekly,2026-05-25,3,0
+CUST-1906,55,Other,Houston,Basic,20.15,28,12,1,Monthly,2026-05-12,3,0
+CUST-1907,33,Female,Chicago,Premium,89.92,19,8,1,Weekly,2026-05-17,5,0
+CUST-1908,41,Female,San Antonio,Basic,19.41,28,9,4,Monthly,2026-06-01,4,1
+CUST-1909,42,Female,Los Angeles,Standard,53.81,10,5,1,Weekly,2026-05-19,5,0
+CUST-1910,47,Female,San Antonio,Premium,118.48,5,2,1,Weekly,2026-04-21,3,0
+CUST-1911,30,Male,New York,Premium,128.43,24,8,1,Monthly,2026-04-28,5,0
+CUST-1912,41,Female,San Diego,Standard,55.64,38,3,0,Monthly,2026-06-16,2,1
+CUST-1913,54,Male,Houston,Standard,68.28,50,25,2,Bi-weekly,2026-04-16,5,0
+CUST-1914,41,Other,New York,Premium,100.83,28,12,1,Weekly,2026-05-20,5,1
+CUST-1915,70,Female,New York,Premium,123.25,10,3,1,Monthly,2026-03-25,3,0
+CUST-1916,56,Other,Chicago,Basic,12.33,6,3,0,Monthly,2026-05-01,2,0
+CUST-1917,30,Female,Chicago,Standard,40.11,20,9,1,Monthly,2026-04-06,4,0
+CUST-1918,66,Other,Los Angeles,Basic,22.72,50,12,0,Weekly,2026-05-17,3,0
+CUST-1919,43,Other,Phoenix,Basic,29.74,53,16,0,Daily,2026-06-08,2,0
+CUST-1920,44,Other,San Antonio,Premium,93.07,28,3,0,Weekly,2026-05-04,3,0
+CUST-1921,30,Female,Chicago,Premium,145.88,29,10,0,Weekly,2026-05-28,3,0
+CUST-1922,29,Male,Phoenix,Standard,47.63,59,20,2,Daily,2026-03-31,3,1
+CUST-1923,23,Female,Los Angeles,Standard,32.57,2,1,1,Monthly,2026-04-19,2,1
+CUST-1924,35,Male,San Jose,Basic,11.94,34,1,2,Monthly,2026-04-04,4,0
+CUST-1925,48,Female,San Jose,Standard,43.46,44,11,1,Bi-weekly,2026-05-21,4,0
+CUST-1926,42,Other,New York,Standard,64.92,52,4,1,Daily,2026-04-23,5,0
+CUST-1927,74,Male,New York,Premium,79.83,34,9,4,Weekly,2026-05-04,4,0
+CUST-1928,60,Female,Dallas,Standard,56.41,1,2,1,Daily,2026-03-31,4,0
+CUST-1929,69,Other,Philadelphia,Premium,105.54,39,16,1,Monthly,2026-04-03,2,1
+CUST-1930,48,Other,Los Angeles,Premium,100.79,39,7,3,Weekly,2026-04-15,1,1
+CUST-1931,68,Male,Phoenix,Premium,149.7,56,15,3,Weekly,2026-04-24,1,0
+CUST-1932,52,Male,Houston,Basic,13.41,43,3,1,Daily,2026-04-26,2,1
+CUST-1933,38,Female,Phoenix,Basic,24.38,43,16,1,Daily,2026-03-27,3,0
+CUST-1934,58,Other,San Diego,Basic,25.91,22,4,2,Daily,2026-03-30,4,0
+CUST-1935,63,Other,San Antonio,Premium,121.37,36,14,1,Weekly,2026-05-23,4,0
+CUST-1936,23,Male,Los Angeles,Standard,59.62,60,7,1,Daily,2026-04-08,4,1
+CUST-1937,38,Female,San Jose,Premium,70.13,4,1,2,Monthly,2026-04-27,4,0
+CUST-1938,69,Other,Chicago,Premium,123.1,38,8,0,Daily,2026-05-01,2,0
+CUST-1939,47,Female,Chicago,Standard,63.49,32,15,3,Weekly,2026-04-05,3,1
+CUST-1940,60,Other,New York,Premium,95.61,33,4,1,Bi-weekly,2026-03-22,5,0
+CUST-1941,31,Female,Phoenix,Premium,147.32,4,2,0,Weekly,2026-05-25,3,0
+CUST-1942,21,Male,San Diego,Premium,101.34,53,22,5,Weekly,2026-06-18,4,0
+CUST-1943,61,Female,Philadelphia,Standard,45.64,34,10,1,Bi-weekly,2026-03-23,3,0
+CUST-1944,53,Female,Los Angeles,Basic,16.47,51,19,1,Daily,2026-03-22,4,0
+CUST-1945,28,Other,Chicago,Standard,57.84,19,3,0,Weekly,2026-05-24,3,0
+CUST-1946,18,Female,San Jose,Basic,23.57,55,5,1,Monthly,2026-04-27,3,0
+CUST-1947,24,Female,San Diego,Basic,28.9,8,3,2,Monthly,2026-06-01,5,0
+CUST-1948,25,Male,San Antonio,Standard,42.11,39,6,0,Monthly,2026-03-24,2,0
+CUST-1949,73,Other,San Antonio,Standard,55.29,29,6,1,Daily,2026-06-05,2,1
+CUST-1950,49,Other,Dallas,Basic,10.46,37,16,4,Bi-weekly,2026-03-24,1,0
+CUST-1951,29,Female,San Diego,Premium,126.22,20,10,1,Weekly,2026-06-08,4,0
+CUST-1952,73,Other,Chicago,Standard,62.51,2,2,2,Monthly,2026-06-12,2,0
+CUST-1953,31,Other,Los Angeles,Basic,27.24,45,6,4,Daily,2026-04-10,4,0
+CUST-1954,25,Male,Chicago,Premium,86.5,11,1,1,Bi-weekly,2026-06-16,2,0
+CUST-1955,50,Female,Philadelphia,Premium,83.73,43,1,1,Weekly,2026-05-13,2,0
+CUST-1956,51,Female,Dallas,Standard,35.59,32,11,2,Bi-weekly,2026-04-04,3,0
+CUST-1957,60,Male,Houston,Basic,13.76,20,4,0,Weekly,2026-04-04,3,0
+CUST-1958,35,Male,San Jose,Standard,32.97,17,5,1,Monthly,2026-03-29,3,0
+CUST-1959,23,Female,San Antonio,Premium,81.46,14,1,2,Bi-weekly,2026-03-31,3,0
+CUST-1960,54,Other,Dallas,Premium,83.12,53,5,0,Bi-weekly,2026-04-26,5,1
+CUST-1961,56,Male,Los Angeles,Standard,34.98,8,4,2,Daily,2026-05-09,2,1
+CUST-1962,39,Female,Chicago,Basic,15.47,7,2,0,Weekly,2026-05-03,2,0
+CUST-1963,25,Male,Dallas,Premium,140.04,38,16,1,Daily,2026-04-14,4,0
+CUST-1964,73,Female,Dallas,Standard,54.3,58,2,2,Weekly,2026-05-11,5,0
+CUST-1965,69,Other,Dallas,Premium,117.57,55,13,0,Monthly,2026-04-06,3,0
+CUST-1966,61,Other,Chicago,Premium,80.11,25,10,3,Bi-weekly,2026-06-14,3,0
+CUST-1967,33,Other,San Jose,Standard,58.27,12,4,1,Bi-weekly,2026-04-22,4,0
+CUST-1968,45,Other,Houston,Standard,55.43,6,2,2,Monthly,2026-05-11,2,0
+CUST-1969,22,Other,Houston,Basic,13.3,4,1,0,Bi-weekly,2026-04-11,5,0
+CUST-1970,18,Female,Dallas,Premium,80.91,32,4,0,Monthly,2026-06-19,3,0
+CUST-1971,65,Male,San Antonio,Premium,112.75,23,4,1,Daily,2026-04-04,5,0
+CUST-1972,61,Other,Houston,Basic,11.5,54,5,0,Bi-weekly,2026-06-14,5,0
+CUST-1973,28,Female,Los Angeles,Standard,66.56,16,2,2,Bi-weekly,2026-05-13,5,0
+CUST-1974,31,Male,San Jose,Standard,38.7,20,9,1,Daily,2026-04-22,5,0
+CUST-1975,18,Other,San Diego,Standard,41.93,7,1,3,Bi-weekly,2026-05-28,4,0
+CUST-1976,24,Female,San Diego,Basic,11.69,33,5,4,Monthly,2026-06-05,4,1
+CUST-1977,67,Other,Phoenix,Basic,19.41,24,5,1,Bi-weekly,2026-04-27,3,0
+CUST-1978,35,Male,San Diego,Premium,137.15,11,2,1,Bi-weekly,2026-04-26,2,1
+CUST-1979,73,Other,Houston,Basic,13.79,3,1,3,Monthly,2026-04-28,3,0
+CUST-1980,28,Other,Houston,Standard,68.39,18,2,1,Monthly,2026-04-19,5,0
+CUST-1981,63,Male,Philadelphia,Standard,50.07,60,24,1,Monthly,2026-06-04,2,0
+CUST-1982,68,Male,Chicago,Basic,16.88,1,1,0,Daily,2026-03-26,4,0
+CUST-1983,56,Other,New York,Standard,49.21,19,8,1,Daily,2026-04-27,3,0
+CUST-1984,64,Other,Chicago,Basic,15.62,8,3,2,Weekly,2026-03-27,5,1
+CUST-1985,63,Male,Dallas,Premium,84.5,55,19,1,Weekly,2026-05-22,2,1
+CUST-1986,20,Female,Houston,Basic,18.53,40,7,2,Daily,2026-06-14,5,0
+CUST-1987,37,Other,Houston,Basic,16.72,31,1,3,Monthly,2026-03-30,1,1
+CUST-1988,35,Female,Phoenix,Standard,58.46,16,6,2,Daily,2026-05-28,2,1
+CUST-1989,60,Other,Philadelphia,Basic,15.71,18,2,1,Monthly,2026-05-28,4,0
+CUST-1990,41,Female,Phoenix,Basic,11.94,1,1,2,Bi-weekly,2026-05-05,4,0
+CUST-1991,55,Other,San Jose,Standard,39.53,18,4,5,Monthly,2026-06-09,1,1
+CUST-1992,65,Other,Los Angeles,Basic,21.73,59,29,1,Weekly,2026-05-27,5,0
+CUST-1993,22,Other,San Jose,Standard,42.06,31,13,1,Weekly,2026-04-13,3,1
+CUST-1994,30,Female,Dallas,Premium,90.2,57,25,2,Bi-weekly,2026-05-05,5,0
+CUST-1995,25,Female,Los Angeles,Standard,46.76,60,17,2,Daily,2026-05-30,4,0
+CUST-1996,26,Female,New York,Premium,74.86,45,7,2,Monthly,2026-04-18,2,1
+CUST-1997,66,Other,San Antonio,Premium,132.35,26,10,1,Bi-weekly,2026-05-25,3,1
+CUST-1998,54,Male,San Jose,Premium,70.71,60,26,2,Monthly,2026-04-17,4,0
+CUST-1999,32,Female,Phoenix,Premium,79.53,15,1,4,Weekly,2026-05-14,1,0
+CUST-2000,74,Female,Chicago,Standard,64.94,4,1,4,Weekly,2026-04-13,1,1
+CUST-2001,40,Other,San Jose,Standard,42.98,46,18,0,Bi-weekly,2026-06-03,5,0
+CUST-2002,36,Female,New York,Premium,135.27,53,12,4,Weekly,2026-05-16,2,1
+CUST-2003,19,Other,San Jose,Basic,24.45,45,13,2,Bi-weekly,2026-04-01,3,0
+CUST-2004,32,Female,Phoenix,Basic,21.63,52,25,2,Monthly,2026-06-01,5,0
+CUST-2005,64,Female,Philadelphia,Basic,28.04,6,2,3,Weekly,2026-04-23,2,0
+CUST-2006,29,Male,San Jose,Standard,67.73,12,6,0,Bi-weekly,2026-06-18,4,0
+CUST-2007,29,Female,San Jose,Basic,11.39,5,2,1,Weekly,2026-04-23,5,1
+CUST-2008,51,Male,New York,Premium,77.98,25,1,2,Daily,2026-06-19,2,1
+CUST-2009,67,Male,Phoenix,Basic,28.77,39,1,1,Daily,2026-06-07,4,0
+CUST-2010,23,Male,Chicago,Standard,60.39,58,15,3,Weekly,2026-05-12,3,0
+CUST-2011,33,Male,Dallas,Premium,91.4,35,4,0,Daily,2026-06-15,2,0
+CUST-2012,24,Other,San Antonio,Basic,10.02,15,1,3,Weekly,2026-04-27,4,0
+CUST-2013,59,Female,Houston,Premium,100.78,57,23,5,Daily,2026-04-19,2,0
+CUST-2014,32,Male,Phoenix,Standard,33.05,22,2,0,Bi-weekly,2026-06-10,2,0
+CUST-2015,29,Female,Dallas,Standard,53.98,44,14,1,Weekly,2026-03-27,4,0
+CUST-2016,36,Female,Los Angeles,Standard,66.65,43,12,1,Bi-weekly,2026-06-11,2,0
+CUST-2017,27,Other,Chicago,Standard,35.91,29,12,0,Monthly,2026-06-12,2,0
+CUST-2018,64,Female,Chicago,Basic,16.46,9,2,1,Monthly,2026-05-06,4,0
+CUST-2019,48,Other,San Antonio,Premium,133.48,22,3,2,Weekly,2026-05-02,5,0
+CUST-2020,52,Other,San Diego,Premium,112.9,15,4,2,Daily,2026-04-07,5,0
+CUST-2021,67,Other,Houston,Premium,76.98,24,1,0,Weekly,2026-06-18,4,0
+CUST-2022,26,Male,New York,Standard,44.43,55,25,3,Weekly,2026-05-14,4,0
+CUST-2023,72,Other,San Antonio,Basic,14.21,15,1,0,Weekly,2026-06-05,3,0
+CUST-2024,19,Other,San Antonio,Standard,32.16,7,3,1,Daily,2026-04-20,3,1
+CUST-2025,41,Male,Los Angeles,Basic,11.54,37,14,1,Weekly,2026-05-28,5,0
+CUST-2026,65,Other,Phoenix,Standard,46.46,22,8,4,Daily,2026-05-15,1,1
+CUST-2027,74,Other,New York,Premium,130.09,33,6,1,Daily,2026-05-01,5,0
+CUST-2028,74,Female,Dallas,Premium,136.36,59,19,3,Bi-weekly,2026-03-22,2,1
+CUST-2029,28,Female,Los Angeles,Premium,100.2,9,2,1,Monthly,2026-04-02,2,1
+CUST-2030,29,Other,Dallas,Premium,137.34,53,23,2,Monthly,2026-04-20,4,0
+CUST-2031,43,Female,Chicago,Basic,26.07,42,14,2,Weekly,2026-05-17,2,1
+CUST-2032,41,Other,Philadelphia,Basic,14.79,11,5,1,Daily,2026-06-12,3,0
+CUST-2033,66,Female,Houston,Premium,86.14,60,2,4,Weekly,2026-05-17,1,0
+CUST-2034,54,Male,San Jose,Standard,31.83,21,2,0,Bi-weekly,2026-06-19,4,0
+CUST-2035,43,Other,Houston,Standard,60.07,47,12,1,Weekly,2026-03-23,2,1
+CUST-2036,75,Other,Dallas,Basic,20.04,50,5,1,Daily,2026-04-06,5,0
+CUST-2037,73,Male,Phoenix,Basic,13.03,30,2,0,Daily,2026-05-22,3,0
+CUST-2038,59,Male,Chicago,Premium,111.3,47,20,1,Bi-weekly,2026-04-24,3,0
+CUST-2039,41,Other,San Antonio,Basic,27.81,50,22,2,Monthly,2026-05-21,3,0
+CUST-2040,56,Male,Chicago,Premium,120.22,32,4,1,Daily,2026-06-02,4,0
+CUST-2041,69,Male,San Diego,Basic,19.1,11,3,1,Weekly,2026-06-12,4,0
+CUST-2042,40,Male,Los Angeles,Basic,24.21,30,5,0,Monthly,2026-05-19,5,0
+CUST-2043,26,Male,San Jose,Standard,31.58,55,10,1,Monthly,2026-04-29,3,0
+CUST-2044,50,Other,Philadelphia,Standard,33.34,27,9,1,Monthly,2026-05-18,2,0
+CUST-2045,59,Male,Houston,Premium,135.7,1,1,1,Daily,2026-05-14,5,0
+CUST-2046,43,Male,Houston,Standard,64.97,43,3,1,Bi-weekly,2026-04-22,5,0
+CUST-2047,75,Female,Los Angeles,Basic,13.61,7,2,2,Monthly,2026-05-26,5,0
+CUST-2048,38,Female,San Jose,Standard,38.51,48,16,3,Daily,2026-05-16,4,1
+CUST-2049,27,Female,Chicago,Premium,87.08,37,2,1,Monthly,2026-06-13,4,0
+CUST-2050,48,Male,New York,Basic,27.36,49,22,2,Monthly,2026-05-17,4,0
+CUST-2051,23,Male,Los Angeles,Standard,46.2,20,8,2,Monthly,2026-04-14,3,0
+CUST-2052,34,Male,New York,Basic,27.9,28,6,0,Bi-weekly,2026-05-30,3,0
+CUST-2053,44,Female,San Diego,Premium,125.11,11,4,6,Bi-weekly,2026-03-24,3,0
+CUST-2054,53,Other,Houston,Basic,24.45,38,5,0,Bi-weekly,2026-03-27,4,1
+CUST-2055,75,Female,Chicago,Standard,64.57,8,4,2,Bi-weekly,2026-04-15,2,0
+CUST-2056,71,Male,San Diego,Premium,147.56,7,1,2,Weekly,2026-05-27,5,0
+CUST-2057,67,Male,San Jose,Standard,38.65,14,2,1,Daily,2026-05-04,4,1
+CUST-2058,75,Female,Dallas,Basic,23.99,42,15,0,Monthly,2026-04-29,4,0
+CUST-2059,52,Female,Dallas,Standard,34.54,12,4,1,Monthly,2026-05-04,3,0
+CUST-2060,28,Other,San Antonio,Standard,41.4,43,14,0,Bi-weekly,2026-03-23,2,0
+CUST-2061,69,Male,Los Angeles,Premium,71.31,60,14,4,Daily,2026-04-18,1,1
+CUST-2062,50,Other,New York,Premium,93.19,27,4,3,Weekly,2026-04-23,4,0
+CUST-2063,72,Female,Los Angeles,Standard,68.7,59,15,2,Monthly,2026-03-30,5,1
+CUST-2064,41,Male,Dallas,Standard,40.7,43,9,0,Bi-weekly,2026-04-28,3,1
+CUST-2065,44,Male,New York,Basic,13.07,24,9,2,Bi-weekly,2026-05-09,3,0
+CUST-2066,45,Male,Dallas,Standard,37.71,42,13,2,Daily,2026-04-08,5,1
+CUST-2067,58,Female,Chicago,Standard,66.17,34,6,0,Monthly,2026-05-22,2,0
+CUST-2068,26,Other,Los Angeles,Premium,116.15,26,13,2,Bi-weekly,2026-04-11,3,0
+CUST-2069,31,Male,Los Angeles,Basic,18.75,41,19,0,Weekly,2026-06-17,2,0
+CUST-2070,19,Other,Chicago,Standard,55.38,50,12,0,Weekly,2026-05-21,3,0
+CUST-2071,52,Male,San Antonio,Standard,56.37,18,2,1,Weekly,2026-04-01,2,1
+CUST-2072,55,Male,Los Angeles,Standard,67.09,8,1,1,Weekly,2026-05-15,4,0
+CUST-2073,23,Male,San Diego,Standard,66.51,14,4,1,Daily,2026-04-19,2,1
+CUST-2074,49,Other,Los Angeles,Basic,23.75,25,6,0,Monthly,2026-05-31,3,0
+CUST-2075,75,Male,San Jose,Premium,118.53,3,1,0,Bi-weekly,2026-05-07,5,0
+CUST-2076,56,Other,New York,Basic,20.43,17,2,1,Weekly,2026-04-04,2,1
+CUST-2077,51,Other,Chicago,Basic,27.34,8,2,1,Daily,2026-05-10,3,0
+CUST-2078,64,Other,Chicago,Standard,40.95,13,1,1,Bi-weekly,2026-03-22,4,0
+CUST-2079,69,Female,San Antonio,Premium,145.71,60,7,3,Bi-weekly,2026-05-29,2,0
+CUST-2080,74,Other,Phoenix,Standard,34.12,51,25,2,Bi-weekly,2026-05-30,3,0
+CUST-2081,49,Female,San Diego,Standard,53.85,18,6,2,Daily,2026-04-04,5,0
+CUST-2082,54,Female,Philadelphia,Premium,135.55,29,3,0,Daily,2026-04-16,4,0
+CUST-2083,36,Other,Dallas,Standard,45.93,8,2,2,Bi-weekly,2026-04-27,3,0
+CUST-2084,22,Male,Philadelphia,Standard,35.8,21,2,1,Daily,2026-05-11,2,0
+CUST-2085,31,Female,San Jose,Standard,65.95,36,3,2,Monthly,2026-05-15,3,0
+CUST-2086,24,Other,Phoenix,Premium,118.63,57,26,1,Daily,2026-04-08,5,0
+CUST-2087,45,Female,Philadelphia,Basic,13.94,52,16,0,Monthly,2026-06-15,4,0
+CUST-2088,25,Female,Chicago,Premium,96.15,25,4,1,Daily,2026-05-15,2,0
+CUST-2089,72,Other,New York,Standard,41.37,54,13,2,Daily,2026-04-13,2,1
+CUST-2090,19,Male,San Diego,Basic,26.6,27,12,4,Bi-weekly,2026-05-16,3,0
+CUST-2091,43,Male,Dallas,Standard,49.75,4,2,1,Bi-weekly,2026-03-23,5,0
+CUST-2092,59,Male,Philadelphia,Premium,78.22,15,1,1,Daily,2026-06-03,2,0
+CUST-2093,73,Other,San Antonio,Basic,13.4,13,6,2,Bi-weekly,2026-04-13,2,0
+CUST-2094,73,Male,Phoenix,Basic,12.22,20,2,0,Bi-weekly,2026-05-09,5,0
+CUST-2095,28,Male,San Jose,Standard,34.8,21,3,6,Monthly,2026-03-31,3,0
+CUST-2096,51,Other,Houston,Premium,108.23,32,9,1,Bi-weekly,2026-04-20,3,1
+CUST-2097,67,Female,Los Angeles,Standard,52.34,56,8,0,Weekly,2026-03-24,2,1
+CUST-2098,49,Male,Houston,Basic,23.41,30,14,0,Monthly,2026-05-27,5,0
+CUST-2099,31,Other,Dallas,Premium,138.68,49,10,3,Monthly,2026-03-29,2,0
+CUST-2100,24,Male,Houston,Standard,45.42,29,14,2,Weekly,2026-04-30,3,0
+CUST-2101,45,Male,Phoenix,Premium,121.87,10,4,1,Daily,2026-06-06,3,1
+CUST-2102,47,Male,Phoenix,Basic,19.52,34,15,2,Bi-weekly,2026-05-18,2,0
+CUST-2103,23,Female,San Antonio,Basic,13.01,33,14,3,Bi-weekly,2026-06-14,4,0
+CUST-2104,24,Male,San Antonio,Premium,144.24,13,3,0,Weekly,2026-04-30,3,0
+CUST-2105,51,Other,San Diego,Premium,104.69,44,2,0,Weekly,2026-06-06,3,0
+CUST-2106,75,Male,San Jose,Standard,39.55,35,4,2,Bi-weekly,2026-05-23,5,0
+CUST-2107,24,Male,Phoenix,Standard,38.23,51,7,2,Bi-weekly,2026-03-31,4,0
+CUST-2108,36,Other,New York,Basic,13.7,59,23,2,Monthly,2026-05-12,3,0
+CUST-2109,61,Male,Chicago,Basic,16.64,30,3,1,Daily,2026-03-27,5,0
+CUST-2110,19,Male,Phoenix,Basic,13.41,49,1,2,Bi-weekly,2026-04-21,2,0
+CUST-2111,33,Female,Los Angeles,Basic,26.38,37,10,0,Weekly,2026-04-14,3,0
+CUST-2112,67,Male,Los Angeles,Standard,62.16,22,8,0,Monthly,2026-05-07,4,0
+CUST-2113,34,Female,San Diego,Basic,26.55,20,6,1,Monthly,2026-06-06,4,0
+CUST-2114,64,Other,New York,Basic,29.57,55,8,0,Weekly,2026-05-06,5,1
+CUST-2115,54,Other,San Antonio,Standard,38.25,6,1,4,Monthly,2026-03-31,1,0
+CUST-2116,74,Other,Dallas,Standard,69.49,57,17,1,Weekly,2026-05-18,4,0
+CUST-2117,43,Other,San Antonio,Standard,42.37,3,2,5,Daily,2026-04-26,4,0
+CUST-2118,68,Female,Phoenix,Basic,29.39,32,5,2,Monthly,2026-03-25,3,0
+CUST-2119,36,Other,Dallas,Premium,83.01,32,10,2,Daily,2026-05-14,2,0
+CUST-2120,31,Female,San Jose,Basic,11.06,20,1,7,Monthly,2026-05-06,1,1
+CUST-2121,26,Female,Phoenix,Premium,123.23,50,18,2,Weekly,2026-06-09,4,0
+CUST-2122,64,Male,San Antonio,Premium,143.46,19,4,2,Daily,2026-04-21,4,0
+CUST-2123,61,Other,San Antonio,Standard,45.96,58,4,2,Bi-weekly,2026-05-13,4,0
+CUST-2124,45,Other,Philadelphia,Premium,81.13,50,7,0,Bi-weekly,2026-06-03,5,0
+CUST-2125,37,Female,Los Angeles,Standard,52.67,41,15,0,Weekly,2026-05-03,5,0
+CUST-2126,51,Female,Philadelphia,Premium,144.79,46,12,2,Monthly,2026-05-06,5,0
+CUST-2127,44,Female,New York,Premium,72.11,50,14,1,Daily,2026-06-03,4,0
+CUST-2128,55,Other,Philadelphia,Basic,22.42,58,19,2,Bi-weekly,2026-06-14,5,0
+CUST-2129,60,Male,San Diego,Premium,106.82,4,1,0,Daily,2026-05-17,2,1
+CUST-2130,24,Female,San Jose,Standard,57.62,56,2,1,Daily,2026-04-07,2,0
+CUST-2131,51,Male,Dallas,Premium,147.38,9,2,2,Weekly,2026-05-13,4,0
+CUST-2132,18,Female,San Jose,Premium,86.06,5,1,1,Weekly,2026-04-04,2,1
+CUST-2133,33,Male,Los Angeles,Standard,30.99,33,15,2,Monthly,2026-06-13,2,1
+CUST-2134,48,Male,Houston,Premium,90.82,40,15,2,Daily,2026-04-26,3,0
+CUST-2135,29,Male,Houston,Basic,20.23,45,18,4,Weekly,2026-04-21,4,0
+CUST-2136,60,Male,San Jose,Standard,44.69,18,7,1,Monthly,2026-03-23,2,1
+CUST-2137,70,Female,Chicago,Basic,15.67,8,4,1,Daily,2026-04-07,4,1
+CUST-2138,59,Other,San Jose,Standard,31.71,59,12,1,Weekly,2026-04-22,5,0
+CUST-2139,28,Female,Dallas,Premium,86.86,58,23,0,Monthly,2026-04-16,2,1
+CUST-2140,27,Female,San Jose,Standard,48.38,55,26,1,Weekly,2026-05-16,4,0
+CUST-2141,22,Other,San Diego,Standard,68.5,39,6,1,Bi-weekly,2026-06-04,4,0
+CUST-2142,55,Female,San Jose,Premium,136.39,5,1,0,Daily,2026-05-31,3,1
+CUST-2143,24,Female,San Diego,Standard,60.4,50,24,0,Weekly,2026-06-07,3,0
+CUST-2144,42,Female,Los Angeles,Basic,22.24,8,1,0,Daily,2026-04-25,4,0
+CUST-2145,71,Male,Chicago,Standard,34.31,29,7,3,Weekly,2026-03-31,2,1
+CUST-2146,49,Female,Phoenix,Basic,14.02,11,4,2,Weekly,2026-06-09,2,0
+CUST-2147,60,Male,Houston,Basic,26.2,58,1,1,Bi-weekly,2026-04-29,2,1
+CUST-2148,61,Other,Dallas,Standard,37.61,14,5,4,Monthly,2026-04-17,3,0
+CUST-2149,75,Other,Chicago,Basic,18.78,41,13,2,Daily,2026-04-09,2,1
+CUST-2150,51,Female,Los Angeles,Basic,19.97,4,2,0,Daily,2026-05-23,4,0
+CUST-2151,34,Female,Philadelphia,Basic,27.45,11,3,1,Daily,2026-04-13,3,0
+CUST-2152,57,Other,Phoenix,Standard,54.75,35,4,2,Monthly,2026-05-18,2,1
+CUST-2153,44,Female,Houston,Standard,65.52,4,1,0,Weekly,2026-04-11,4,0
+CUST-2154,60,Male,Houston,Standard,32.92,37,2,0,Bi-weekly,2026-06-11,5,0
+CUST-2155,57,Male,Dallas,Standard,67.86,18,1,2,Daily,2026-06-16,5,0
+CUST-2156,59,Female,San Antonio,Standard,42.14,55,8,3,Daily,2026-06-13,1,0
+CUST-2157,69,Male,Dallas,Premium,138.82,44,22,2,Daily,2026-04-11,5,1
+CUST-2158,67,Female,Chicago,Standard,58.05,36,5,2,Daily,2026-04-25,2,0
+CUST-2159,75,Female,Philadelphia,Basic,16.86,59,2,1,Weekly,2026-05-22,2,0
+CUST-2160,32,Female,Dallas,Premium,73.66,52,1,0,Weekly,2026-06-13,2,1
+CUST-2161,46,Male,Phoenix,Basic,16.28,39,8,1,Bi-weekly,2026-06-04,5,0
+CUST-2162,25,Other,Los Angeles,Basic,15.0,35,7,1,Monthly,2026-03-22,4,0
+CUST-2163,72,Male,San Diego,Premium,94.22,24,9,0,Bi-weekly,2026-03-29,3,0
+CUST-2164,35,Female,Dallas,Premium,78.35,23,7,1,Monthly,2026-05-16,2,1
+CUST-2165,26,Other,Houston,Standard,59.68,14,1,1,Bi-weekly,2026-06-02,2,0
+CUST-2166,62,Female,San Diego,Basic,10.43,54,2,1,Bi-weekly,2026-05-16,5,0
+CUST-2167,23,Male,Phoenix,Premium,100.71,2,2,2,Monthly,2026-04-25,2,1
+CUST-2168,42,Male,San Antonio,Premium,74.18,20,1,3,Bi-weekly,2026-06-17,3,0
+CUST-2169,34,Other,Houston,Basic,16.82,54,20,1,Monthly,2026-04-27,2,0
+CUST-2170,53,Female,Phoenix,Premium,107.08,37,17,2,Bi-weekly,2026-05-31,5,0
+CUST-2171,33,Male,New York,Standard,61.98,18,2,4,Weekly,2026-04-12,3,0
+CUST-2172,43,Male,San Jose,Standard,44.47,43,9,2,Daily,2026-06-05,4,0
+CUST-2173,38,Female,Chicago,Standard,48.51,29,1,0,Monthly,2026-06-16,4,0
+CUST-2174,72,Other,Houston,Standard,32.34,6,2,2,Bi-weekly,2026-06-12,5,0
+CUST-2175,67,Female,Phoenix,Standard,35.09,41,6,3,Weekly,2026-04-02,1,1
+CUST-2176,59,Male,Chicago,Premium,110.54,29,10,1,Bi-weekly,2026-06-15,3,0
+CUST-2177,63,Female,Phoenix,Basic,23.57,55,12,1,Daily,2026-04-05,3,0
+CUST-2178,22,Other,San Diego,Basic,20.22,16,4,1,Bi-weekly,2026-04-08,4,0
+CUST-2179,61,Female,Los Angeles,Premium,104.12,19,3,2,Daily,2026-05-10,4,0
+CUST-2180,44,Other,Philadelphia,Standard,67.7,19,1,4,Weekly,2026-05-04,1,1
+CUST-2181,27,Other,New York,Basic,22.18,52,11,4,Bi-weekly,2026-05-24,4,0
+CUST-2182,20,Other,Chicago,Standard,60.5,42,3,1,Daily,2026-05-23,5,0
+CUST-2183,25,Other,New York,Premium,107.79,34,17,1,Monthly,2026-05-11,4,0
+CUST-2184,54,Female,Houston,Standard,39.72,50,12,6,Weekly,2026-04-23,2,0
+CUST-2185,25,Other,Houston,Standard,59.31,57,14,1,Bi-weekly,2026-06-10,4,0
+CUST-2186,22,Female,San Diego,Premium,88.43,51,14,2,Weekly,2026-04-09,3,0
+CUST-2187,33,Female,San Jose,Premium,81.05,17,5,0,Bi-weekly,2026-05-11,2,1
+CUST-2188,44,Other,Chicago,Premium,109.54,57,25,1,Weekly,2026-05-28,5,1
+CUST-2189,25,Female,Phoenix,Premium,126.91,31,12,3,Daily,2026-06-04,1,0
+CUST-2190,19,Other,Chicago,Basic,12.65,56,17,4,Monthly,2026-04-27,3,0
+CUST-2191,62,Other,Houston,Premium,93.47,22,6,3,Daily,2026-06-15,1,0
+CUST-2192,40,Female,San Antonio,Premium,105.98,54,14,2,Bi-weekly,2026-04-20,3,0
+CUST-2193,64,Other,Dallas,Basic,13.05,1,2,0,Monthly,2026-05-03,4,0
+CUST-2194,50,Other,San Jose,Standard,67.79,7,1,1,Bi-weekly,2026-04-18,4,1
+CUST-2195,51,Other,San Jose,Premium,137.53,28,5,1,Bi-weekly,2026-05-02,4,0
+CUST-2196,27,Male,Houston,Standard,50.77,37,11,3,Daily,2026-05-07,3,0
+CUST-2197,36,Female,San Diego,Standard,38.95,11,3,4,Bi-weekly,2026-04-04,1,0
+CUST-2198,60,Female,Chicago,Basic,14.14,54,17,1,Weekly,2026-06-17,2,0
+CUST-2199,52,Other,Houston,Basic,19.77,53,1,1,Bi-weekly,2026-05-25,4,0
+CUST-2200,54,Female,San Diego,Premium,80.09,30,5,1,Daily,2026-03-22,2,1
+CUST-2201,45,Female,Phoenix,Basic,27.29,18,2,1,Bi-weekly,2026-06-10,3,0
+CUST-2202,38,Male,Dallas,Standard,41.04,41,17,2,Daily,2026-03-22,4,0
+CUST-2203,20,Female,Los Angeles,Premium,133.54,21,4,2,Daily,2026-03-31,2,1
+CUST-2204,55,Female,Houston,Premium,85.65,31,3,2,Monthly,2026-05-28,5,0
+CUST-2205,30,Other,Los Angeles,Premium,138.57,48,7,3,Daily,2026-04-26,1,0
+CUST-2206,57,Male,Chicago,Basic,18.36,17,7,1,Weekly,2026-03-31,4,0
+CUST-2207,60,Male,Phoenix,Basic,27.5,43,16,2,Monthly,2026-04-01,5,0
+CUST-2208,52,Female,Phoenix,Basic,14.38,57,25,1,Bi-weekly,2026-04-28,5,0
+CUST-2209,60,Female,Los Angeles,Basic,19.29,21,2,2,Bi-weekly,2026-03-23,5,0
+CUST-2210,67,Female,San Diego,Premium,102.96,16,1,1,Bi-weekly,2026-05-17,3,0
+CUST-2211,68,Female,New York,Premium,131.74,17,6,1,Monthly,2026-05-01,5,0
+CUST-2212,34,Male,Phoenix,Standard,59.13,22,11,2,Daily,2026-05-12,5,0
+CUST-2213,54,Male,Dallas,Basic,25.59,8,3,1,Weekly,2026-04-04,2,0
+CUST-2214,19,Female,Los Angeles,Premium,96.66,23,9,1,Daily,2026-03-29,2,1
+CUST-2215,41,Other,Houston,Basic,26.76,26,12,0,Weekly,2026-05-14,3,0
+CUST-2216,39,Female,Houston,Premium,128.67,1,1,1,Daily,2026-04-14,2,1
+CUST-2217,68,Female,New York,Basic,15.66,2,1,1,Weekly,2026-06-16,4,0
+CUST-2218,70,Female,San Antonio,Basic,26.37,57,9,2,Daily,2026-06-11,2,0
+CUST-2219,63,Other,San Antonio,Basic,10.29,54,18,0,Weekly,2026-06-08,5,0
+CUST-2220,56,Female,Philadelphia,Standard,50.49,2,2,2,Bi-weekly,2026-04-23,3,1
+CUST-2221,59,Other,San Diego,Standard,41.65,6,1,3,Monthly,2026-04-10,3,0
+CUST-2222,62,Other,Dallas,Basic,17.65,32,13,0,Bi-weekly,2026-04-12,2,1
+CUST-2223,54,Male,San Antonio,Basic,18.94,31,10,2,Daily,2026-03-30,4,0
+CUST-2224,69,Other,Los Angeles,Basic,21.22,14,7,2,Monthly,2026-04-06,3,1
+CUST-2225,43,Other,San Diego,Premium,127.84,37,8,1,Daily,2026-04-18,4,0
+CUST-2226,65,Female,Chicago,Basic,16.43,37,14,2,Daily,2026-05-17,3,0
+CUST-2227,68,Female,Dallas,Standard,42.52,42,8,0,Bi-weekly,2026-04-22,5,0
+CUST-2228,72,Other,Los Angeles,Basic,18.51,5,2,3,Weekly,2026-06-19,2,1
+CUST-2229,25,Male,Houston,Standard,64.79,8,1,3,Monthly,2026-04-18,2,1
+CUST-2230,51,Female,Chicago,Premium,139.94,27,7,0,Daily,2026-05-14,2,1
+CUST-2231,36,Other,Phoenix,Premium,95.79,57,12,1,Weekly,2026-06-02,4,0
+CUST-2232,31,Other,Philadelphia,Premium,118.36,31,8,2,Weekly,2026-05-09,3,0
+CUST-2233,63,Female,New York,Standard,46.65,10,4,1,Daily,2026-06-20,4,0
+CUST-2234,30,Other,Los Angeles,Premium,106.69,7,1,2,Monthly,2026-04-05,3,1
+CUST-2235,58,Other,Houston,Standard,55.15,60,7,0,Bi-weekly,2026-05-15,5,0
+CUST-2236,37,Female,San Jose,Standard,67.37,36,18,1,Weekly,2026-06-11,3,0
+CUST-2237,31,Female,Chicago,Standard,52.55,9,4,3,Bi-weekly,2026-04-08,3,0
+CUST-2238,65,Other,San Diego,Basic,13.36,51,8,2,Weekly,2026-06-09,3,0
+CUST-2239,48,Male,Philadelphia,Basic,27.92,4,1,3,Monthly,2026-04-27,4,0
+CUST-2240,50,Male,Houston,Premium,101.46,50,13,1,Monthly,2026-05-06,4,0
+CUST-2241,38,Other,Los Angeles,Premium,137.38,11,3,0,Weekly,2026-04-26,5,0
+CUST-2242,68,Female,Los Angeles,Premium,141.98,42,12,2,Weekly,2026-06-17,4,0
+CUST-2243,67,Other,Philadelphia,Premium,103.93,40,18,1,Weekly,2026-05-03,4,0
+CUST-2244,65,Male,Houston,Standard,44.44,13,1,1,Bi-weekly,2026-05-09,2,0
+CUST-2245,34,Other,New York,Premium,91.84,42,9,0,Monthly,2026-05-01,2,0
+CUST-2246,63,Female,Phoenix,Premium,74.58,37,1,2,Monthly,2026-04-04,5,0
+CUST-2247,48,Other,Dallas,Basic,10.76,2,1,1,Weekly,2026-06-04,2,1
+CUST-2248,72,Male,New York,Standard,55.5,4,2,6,Daily,2026-04-12,2,0
+CUST-2249,30,Other,San Jose,Premium,71.33,54,22,3,Bi-weekly,2026-03-22,2,0
+CUST-2250,55,Other,Philadelphia,Premium,71.13,43,13,0,Monthly,2026-03-27,2,1
+CUST-2251,70,Other,Chicago,Premium,91.33,12,4,2,Daily,2026-05-16,3,0
+CUST-2252,44,Male,New York,Standard,40.95,23,2,1,Bi-weekly,2026-04-22,2,0
+CUST-2253,47,Male,Los Angeles,Basic,13.65,6,1,2,Bi-weekly,2026-04-06,2,0
+CUST-2254,68,Male,Houston,Premium,99.96,6,3,3,Weekly,2026-05-12,2,0
+CUST-2255,65,Male,Phoenix,Basic,17.59,19,3,2,Bi-weekly,2026-06-03,4,0
+CUST-2256,71,Male,Phoenix,Basic,13.54,19,5,2,Monthly,2026-05-18,2,0
+CUST-2257,55,Female,Philadelphia,Premium,111.84,54,21,2,Weekly,2026-06-16,5,0
+CUST-2258,54,Male,San Antonio,Standard,55.84,44,10,0,Weekly,2026-05-08,4,0
+CUST-2259,67,Male,Phoenix,Basic,19.35,3,1,1,Weekly,2026-04-21,3,0
+CUST-2260,38,Female,San Jose,Standard,56.33,58,2,0,Bi-weekly,2026-03-23,2,1
+CUST-2261,73,Male,Chicago,Standard,49.02,22,11,2,Daily,2026-05-28,4,0
+CUST-2262,47,Other,Chicago,Basic,18.78,40,15,2,Monthly,2026-04-30,5,0
+CUST-2263,34,Other,Philadelphia,Premium,97.03,44,13,1,Bi-weekly,2026-06-15,3,0
+CUST-2264,75,Other,Los Angeles,Standard,47.04,18,7,0,Daily,2026-05-31,3,0
+CUST-2265,74,Other,Dallas,Basic,29.03,37,5,0,Weekly,2026-03-28,4,0
+CUST-2266,21,Male,Phoenix,Basic,26.03,30,7,0,Weekly,2026-04-23,2,0
+CUST-2267,30,Male,Phoenix,Standard,33.22,16,4,4,Monthly,2026-06-09,2,1
+CUST-2268,53,Female,New York,Standard,36.37,7,2,1,Monthly,2026-03-23,3,0
+CUST-2269,60,Female,San Diego,Premium,89.42,59,4,1,Monthly,2026-06-04,4,0
+CUST-2270,26,Female,Philadelphia,Standard,62.79,47,14,1,Monthly,2026-04-13,2,1
+CUST-2271,60,Other,San Jose,Basic,14.43,39,6,3,Weekly,2026-05-04,3,0
+CUST-2272,70,Male,San Jose,Premium,130.13,59,3,3,Weekly,2026-06-03,4,0
+CUST-2273,31,Female,San Antonio,Basic,16.79,42,6,3,Monthly,2026-06-01,3,0
+CUST-2274,61,Female,New York,Standard,68.34,27,3,1,Weekly,2026-05-01,2,0
+CUST-2275,23,Female,Los Angeles,Premium,139.0,52,26,1,Daily,2026-05-31,4,0
+CUST-2276,50,Female,San Diego,Basic,19.72,43,13,5,Monthly,2026-06-14,3,0
+CUST-2277,65,Other,Los Angeles,Premium,134.57,59,15,1,Bi-weekly,2026-04-21,4,0
+CUST-2278,41,Male,Chicago,Standard,51.27,25,11,1,Daily,2026-06-01,2,1
+CUST-2279,63,Other,Phoenix,Basic,20.3,40,15,1,Monthly,2026-06-14,5,0
+CUST-2280,25,Female,San Diego,Standard,32.0,39,12,0,Bi-weekly,2026-04-27,4,0
+CUST-2281,67,Male,Dallas,Standard,37.15,23,7,0,Daily,2026-04-24,4,0
+CUST-2282,20,Other,Los Angeles,Standard,59.28,35,13,0,Weekly,2026-05-29,2,0
+CUST-2283,26,Other,Chicago,Premium,109.48,58,9,3,Bi-weekly,2026-04-23,2,0
+CUST-2284,75,Other,Dallas,Premium,106.67,5,2,0,Bi-weekly,2026-06-16,3,0
+CUST-2285,64,Other,Los Angeles,Standard,50.51,47,3,0,Bi-weekly,2026-03-31,4,0
+CUST-2286,19,Male,Phoenix,Premium,122.23,57,3,0,Monthly,2026-06-06,3,0
+CUST-2287,37,Other,Dallas,Premium,138.34,16,1,1,Bi-weekly,2026-04-08,5,1
+CUST-2288,45,Female,Chicago,Standard,50.06,3,2,1,Weekly,2026-03-26,4,1
+CUST-2289,44,Male,New York,Standard,56.29,18,5,0,Monthly,2026-04-05,4,1
+CUST-2290,32,Male,Philadelphia,Basic,11.27,19,8,2,Monthly,2026-03-31,4,0
+CUST-2291,48,Other,New York,Standard,43.62,23,8,0,Weekly,2026-04-22,5,0
+CUST-2292,62,Male,San Antonio,Standard,46.12,43,19,1,Daily,2026-04-01,5,0
+CUST-2293,40,Male,Houston,Premium,148.79,24,5,0,Bi-weekly,2026-05-11,5,0
+CUST-2294,19,Male,San Jose,Premium,83.34,23,10,3,Monthly,2026-04-28,1,0
+CUST-2295,36,Other,San Diego,Basic,17.51,35,5,2,Monthly,2026-04-04,2,1
+CUST-2296,31,Male,Los Angeles,Premium,93.15,56,6,1,Monthly,2026-04-11,5,0
+CUST-2297,31,Female,San Jose,Standard,42.78,24,11,1,Daily,2026-03-27,4,0
+CUST-2298,52,Female,Houston,Standard,49.79,30,5,3,Monthly,2026-05-31,2,1
+CUST-2299,18,Other,Philadelphia,Standard,56.25,44,4,1,Monthly,2026-04-07,5,0
+CUST-2300,44,Male,New York,Premium,87.94,40,20,1,Daily,2026-04-05,5,0
+CUST-2301,38,Other,Houston,Basic,21.39,31,11,1,Daily,2026-05-04,2,0
+CUST-2302,74,Other,San Antonio,Premium,110.91,13,2,2,Monthly,2026-05-04,3,0
+CUST-2303,63,Male,Philadelphia,Basic,15.86,58,1,1,Weekly,2026-04-08,5,0
+CUST-2304,61,Other,San Diego,Basic,25.94,30,9,0,Daily,2026-04-04,4,0
+CUST-2305,28,Male,San Diego,Premium,147.0,1,1,1,Monthly,2026-04-15,5,0
+CUST-2306,22,Female,Phoenix,Premium,112.99,46,20,2,Daily,2026-04-25,5,0
+CUST-2307,21,Female,San Antonio,Premium,131.5,24,7,1,Monthly,2026-04-27,2,1
+CUST-2308,72,Female,San Jose,Basic,24.44,24,7,0,Bi-weekly,2026-06-02,3,0
+CUST-2309,31,Female,Los Angeles,Standard,55.68,5,2,5,Monthly,2026-05-20,3,0
+CUST-2310,62,Female,Philadelphia,Standard,57.98,37,9,2,Daily,2026-06-03,3,0
+CUST-2311,19,Male,Philadelphia,Premium,99.02,19,5,0,Weekly,2026-04-09,4,0
+CUST-2312,46,Other,Phoenix,Basic,24.87,45,5,3,Weekly,2026-04-04,3,0
+CUST-2313,34,Other,Houston,Basic,27.02,38,10,3,Weekly,2026-04-07,1,1
+CUST-2314,64,Other,Dallas,Standard,49.08,58,6,0,Bi-weekly,2026-03-30,3,0
+CUST-2315,50,Female,Dallas,Standard,45.12,60,16,2,Weekly,2026-04-14,5,1
+CUST-2316,75,Female,New York,Premium,145.76,22,4,1,Bi-weekly,2026-05-25,3,0
+CUST-2317,56,Other,Los Angeles,Premium,85.76,32,15,1,Daily,2026-04-14,3,0
+CUST-2318,41,Other,New York,Standard,55.06,22,9,2,Daily,2026-05-17,2,0
+CUST-2319,21,Female,San Jose,Premium,89.84,17,3,2,Weekly,2026-05-22,5,0
+CUST-2320,56,Female,Dallas,Standard,33.65,13,6,0,Daily,2026-06-04,4,0
+CUST-2321,32,Male,San Jose,Premium,108.18,7,3,1,Daily,2026-05-11,2,1
+CUST-2322,25,Female,Los Angeles,Standard,37.9,35,7,0,Monthly,2026-05-13,2,0
+CUST-2323,73,Male,San Diego,Premium,85.58,52,21,1,Monthly,2026-06-20,4,0
+CUST-2324,56,Female,San Diego,Premium,84.12,33,16,3,Bi-weekly,2026-03-30,3,0
+CUST-2325,52,Male,Philadelphia,Standard,57.11,33,10,0,Monthly,2026-06-06,3,0
+CUST-2326,38,Other,San Diego,Standard,36.53,5,2,2,Bi-weekly,2026-06-08,5,0
+CUST-2327,61,Other,Chicago,Basic,25.58,49,8,3,Weekly,2026-05-12,3,0
+CUST-2328,51,Female,Los Angeles,Premium,94.0,40,7,4,Weekly,2026-05-10,2,1
+CUST-2329,43,Male,Chicago,Premium,123.01,21,9,1,Monthly,2026-03-29,5,0
+CUST-2330,35,Male,Phoenix,Standard,67.37,54,10,3,Bi-weekly,2026-06-02,3,0
+CUST-2331,40,Other,Philadelphia,Standard,42.32,37,13,0,Monthly,2026-06-20,5,0
+CUST-2332,44,Female,Chicago,Standard,60.68,2,1,5,Weekly,2026-03-28,3,1
+CUST-2333,41,Male,Philadelphia,Standard,61.64,21,9,3,Weekly,2026-05-24,4,0
+CUST-2334,24,Male,Houston,Basic,16.51,31,12,2,Monthly,2026-06-15,5,0
+CUST-2335,63,Female,Houston,Standard,69.48,38,13,0,Daily,2026-06-08,2,0
+CUST-2336,35,Other,Philadelphia,Standard,66.94,8,4,1,Weekly,2026-06-11,4,0
+CUST-2337,64,Female,Chicago,Basic,21.8,37,7,0,Daily,2026-04-25,3,0
+CUST-2338,52,Other,Phoenix,Premium,112.48,19,1,2,Weekly,2026-06-12,4,0
+CUST-2339,41,Female,Houston,Basic,16.43,15,4,0,Bi-weekly,2026-05-09,3,0
+CUST-2340,63,Female,Phoenix,Premium,129.81,2,1,0,Daily,2026-03-30,5,0
+CUST-2341,69,Female,New York,Premium,74.82,33,12,2,Daily,2026-04-09,5,0
+CUST-2342,50,Female,Dallas,Standard,41.31,22,11,2,Daily,2026-06-11,2,0
+CUST-2343,67,Male,Dallas,Basic,25.97,55,3,1,Monthly,2026-04-03,3,0
+CUST-2344,67,Other,San Antonio,Standard,48.63,57,24,2,Weekly,2026-03-29,4,1
+CUST-2345,59,Other,Philadelphia,Standard,51.11,45,14,1,Daily,2026-04-30,4,1
+CUST-2346,71,Female,New York,Basic,14.5,28,3,1,Bi-weekly,2026-05-23,4,0
+CUST-2347,59,Other,Houston,Premium,144.03,58,29,1,Weekly,2026-05-27,3,0
+CUST-2348,29,Male,New York,Premium,118.15,55,2,4,Weekly,2026-04-12,3,0
+CUST-2349,38,Female,Houston,Premium,86.7,20,3,0,Monthly,2026-05-17,3,0
+CUST-2350,31,Female,New York,Basic,27.55,29,2,2,Monthly,2026-06-17,5,0
+CUST-2351,72,Other,Houston,Standard,31.97,29,7,0,Weekly,2026-05-25,5,0
+CUST-2352,25,Male,Chicago,Premium,143.06,47,17,1,Daily,2026-05-31,3,0
+CUST-2353,49,Other,San Jose,Standard,59.99,21,7,1,Weekly,2026-05-25,2,0
+CUST-2354,41,Female,Phoenix,Premium,78.96,30,1,1,Daily,2026-05-03,5,0
+CUST-2355,72,Male,Philadelphia,Standard,67.83,54,3,1,Monthly,2026-03-29,4,1
+CUST-2356,62,Male,San Antonio,Standard,30.63,18,6,5,Daily,2026-06-02,2,1
+CUST-2357,18,Male,Dallas,Basic,12.8,31,13,1,Daily,2026-06-13,3,0
+CUST-2358,60,Female,Philadelphia,Premium,103.19,11,4,1,Weekly,2026-05-29,3,0
+CUST-2359,69,Other,Chicago,Standard,65.16,8,2,0,Daily,2026-04-18,3,0
+CUST-2360,58,Female,Phoenix,Premium,95.69,51,1,3,Bi-weekly,2026-06-17,4,1
+CUST-2361,73,Male,San Antonio,Basic,20.79,49,20,2,Weekly,2026-05-31,2,1
+CUST-2362,75,Male,Los Angeles,Standard,69.53,8,4,0,Monthly,2026-04-28,5,0
+CUST-2363,56,Other,New York,Standard,49.05,58,29,1,Bi-weekly,2026-06-04,4,0
+CUST-2364,41,Other,Los Angeles,Standard,49.71,54,19,0,Weekly,2026-06-04,3,0
+CUST-2365,69,Male,Houston,Premium,76.58,7,3,2,Monthly,2026-05-15,2,1
+CUST-2366,34,Male,Phoenix,Standard,58.42,30,11,1,Bi-weekly,2026-06-04,4,0
+CUST-2367,60,Male,San Jose,Premium,144.77,3,2,1,Daily,2026-05-26,3,1
+CUST-2368,58,Male,Houston,Basic,17.94,1,2,3,Monthly,2026-05-07,2,0
+CUST-2369,70,Other,San Antonio,Standard,69.71,30,10,3,Bi-weekly,2026-04-12,4,1
+CUST-2370,35,Other,Dallas,Standard,43.49,58,6,4,Bi-weekly,2026-05-08,4,0
+CUST-2371,47,Other,Los Angeles,Premium,138.5,49,17,2,Bi-weekly,2026-06-12,4,0
+CUST-2372,19,Other,Chicago,Basic,14.54,30,14,1,Daily,2026-06-05,4,0
+CUST-2373,40,Female,San Diego,Standard,52.13,6,3,3,Weekly,2026-05-01,2,1
+CUST-2374,61,Male,New York,Basic,24.67,23,9,0,Weekly,2026-04-09,2,0
+CUST-2375,41,Other,Houston,Premium,145.77,34,6,5,Bi-weekly,2026-05-31,1,0
+CUST-2376,58,Other,San Jose,Basic,26.86,49,23,0,Weekly,2026-04-12,5,0
+CUST-2377,35,Male,San Antonio,Standard,45.59,34,14,2,Monthly,2026-04-22,4,0
+CUST-2378,37,Male,Los Angeles,Standard,58.33,43,10,2,Weekly,2026-04-03,2,1
+CUST-2379,44,Male,Chicago,Standard,62.9,49,8,3,Monthly,2026-05-31,4,0
+CUST-2380,30,Male,Philadelphia,Basic,14.53,18,3,1,Monthly,2026-06-05,3,0
+CUST-2381,27,Other,Phoenix,Standard,30.43,8,3,2,Daily,2026-04-01,5,1
+CUST-2382,46,Female,Los Angeles,Premium,129.43,30,3,2,Daily,2026-05-08,4,0
+CUST-2383,20,Female,Phoenix,Basic,22.54,28,10,1,Weekly,2026-03-22,5,0
+CUST-2384,32,Other,Los Angeles,Basic,29.95,39,12,0,Weekly,2026-03-27,5,0
+CUST-2385,45,Female,New York,Premium,78.42,50,9,5,Bi-weekly,2026-05-19,3,0
+CUST-2386,71,Female,Philadelphia,Basic,10.26,46,16,2,Weekly,2026-04-07,5,1
+CUST-2387,45,Other,Phoenix,Basic,29.95,53,23,0,Monthly,2026-04-10,5,0
+CUST-2388,73,Other,San Antonio,Basic,22.03,38,4,1,Daily,2026-06-05,3,0
+CUST-2389,61,Other,San Jose,Standard,62.61,46,2,3,Bi-weekly,2026-03-30,4,0
+CUST-2390,54,Other,New York,Standard,62.53,41,14,0,Daily,2026-05-24,3,1
+CUST-2391,39,Male,Phoenix,Standard,62.08,47,15,0,Bi-weekly,2026-05-06,4,0
+CUST-2392,33,Female,San Diego,Basic,16.49,45,21,1,Bi-weekly,2026-05-31,3,0
+CUST-2393,73,Other,Philadelphia,Premium,102.11,23,3,4,Monthly,2026-06-09,3,0
+CUST-2394,52,Other,Houston,Standard,63.15,7,3,2,Daily,2026-03-31,5,0
+CUST-2395,49,Other,Chicago,Standard,38.09,55,23,1,Monthly,2026-05-07,4,0
+CUST-2396,75,Female,Chicago,Basic,16.46,8,2,2,Bi-weekly,2026-04-17,4,0
+CUST-2397,52,Male,San Antonio,Premium,125.65,13,1,4,Daily,2026-04-05,4,0
+CUST-2398,27,Other,Philadelphia,Premium,98.3,9,4,0,Daily,2026-05-14,2,1
+CUST-2399,32,Female,New York,Basic,20.96,43,9,1,Daily,2026-04-18,3,0
+CUST-2400,32,Male,Houston,Standard,55.92,14,2,4,Daily,2026-05-14,2,0
+CUST-2401,72,Other,San Diego,Standard,46.58,36,7,1,Monthly,2026-05-28,5,0
+CUST-2402,74,Female,Phoenix,Premium,133.74,24,5,0,Monthly,2026-05-04,4,0
+CUST-2403,33,Female,Dallas,Standard,33.08,45,5,1,Bi-weekly,2026-03-23,3,0
+CUST-2404,55,Male,Los Angeles,Premium,126.67,35,11,1,Daily,2026-04-04,3,0
+CUST-2405,63,Other,Dallas,Basic,19.31,37,2,0,Monthly,2026-04-02,5,0
+CUST-2406,45,Male,Chicago,Basic,21.2,36,2,0,Bi-weekly,2026-04-20,3,1
+CUST-2407,40,Male,Phoenix,Premium,90.16,58,24,4,Daily,2026-04-05,4,0
+CUST-2408,66,Male,San Antonio,Basic,23.24,20,9,2,Bi-weekly,2026-05-09,3,0
+CUST-2409,74,Other,San Antonio,Basic,25.33,44,19,1,Bi-weekly,2026-06-20,2,0
+CUST-2410,40,Other,Los Angeles,Basic,22.28,34,14,1,Weekly,2026-05-27,3,0
+CUST-2411,67,Male,Chicago,Basic,22.99,32,4,1,Bi-weekly,2026-06-09,2,0
+CUST-2412,54,Other,San Antonio,Standard,45.25,31,3,0,Bi-weekly,2026-05-28,2,1
+CUST-2413,29,Other,San Antonio,Standard,49.99,12,3,1,Monthly,2026-05-26,3,0
+CUST-2414,59,Other,Los Angeles,Standard,48.07,7,3,2,Bi-weekly,2026-06-18,2,0
+CUST-2415,21,Other,Philadelphia,Basic,13.37,34,1,0,Daily,2026-05-10,5,0
+CUST-2416,69,Other,San Jose,Standard,64.37,12,2,1,Monthly,2026-05-28,3,0
+CUST-2417,24,Other,Chicago,Premium,99.93,12,4,2,Weekly,2026-04-17,3,0
+CUST-2418,46,Male,San Jose,Basic,28.71,57,26,2,Daily,2026-05-12,4,0
+CUST-2419,61,Male,San Jose,Premium,83.39,7,2,1,Weekly,2026-04-04,3,0
+CUST-2420,39,Female,Dallas,Standard,61.36,8,1,1,Bi-weekly,2026-05-20,4,0
+CUST-2421,70,Female,Houston,Standard,31.66,4,2,1,Daily,2026-04-15,2,1
+CUST-2422,38,Other,San Jose,Premium,126.18,34,13,1,Weekly,2026-05-15,4,0
+CUST-2423,66,Male,Phoenix,Premium,104.11,28,7,1,Daily,2026-04-19,2,1
+CUST-2424,38,Other,San Diego,Premium,101.1,32,10,3,Daily,2026-04-14,1,1
+CUST-2425,23,Female,San Jose,Premium,142.02,35,6,2,Bi-weekly,2026-06-14,2,1
+CUST-2426,37,Female,Houston,Standard,68.57,4,2,4,Weekly,2026-04-16,3,0
+CUST-2427,20,Male,Los Angeles,Standard,68.0,58,8,2,Bi-weekly,2026-06-11,3,0
+CUST-2428,54,Other,San Jose,Basic,10.9,25,4,2,Daily,2026-05-14,2,0
+CUST-2429,60,Female,Chicago,Standard,63.06,24,7,2,Daily,2026-06-01,3,0
+CUST-2430,57,Other,Phoenix,Standard,57.22,46,21,2,Bi-weekly,2026-05-25,4,0
+CUST-2431,18,Female,San Antonio,Standard,41.12,58,7,0,Monthly,2026-05-19,2,0
+CUST-2432,43,Male,San Diego,Basic,23.26,15,1,1,Daily,2026-06-06,3,0
+CUST-2433,49,Male,Chicago,Premium,96.19,48,9,2,Monthly,2026-05-15,4,0
+CUST-2434,54,Female,Los Angeles,Basic,17.9,57,7,1,Daily,2026-04-10,5,1
+CUST-2435,51,Male,San Diego,Standard,34.37,15,1,1,Monthly,2026-05-28,2,0
+CUST-2436,69,Male,Houston,Standard,54.61,29,12,1,Weekly,2026-04-25,2,0
+CUST-2437,50,Male,Houston,Premium,95.43,37,1,1,Weekly,2026-05-08,4,0
+CUST-2438,40,Female,Houston,Premium,74.51,25,3,1,Bi-weekly,2026-04-17,2,1
+CUST-2439,58,Male,Philadelphia,Premium,127.69,2,2,0,Daily,2026-05-20,4,0
+CUST-2440,27,Other,Philadelphia,Basic,12.23,5,2,2,Daily,2026-04-02,3,0
+CUST-2441,38,Female,New York,Basic,28.03,44,8,2,Daily,2026-05-03,2,0
+CUST-2442,70,Female,San Jose,Basic,27.14,49,21,2,Daily,2026-04-09,2,1
+CUST-2443,70,Female,San Jose,Premium,100.88,44,20,0,Monthly,2026-04-24,3,0
+CUST-2444,57,Female,Philadelphia,Premium,106.4,59,29,3,Weekly,2026-04-23,3,0
+CUST-2445,36,Other,Chicago,Standard,69.97,57,6,1,Bi-weekly,2026-06-18,5,0
+CUST-2446,27,Male,San Diego,Standard,58.43,35,8,0,Monthly,2026-06-04,4,0
+CUST-2447,43,Female,San Antonio,Standard,59.34,29,7,1,Monthly,2026-05-05,4,0
+CUST-2448,43,Male,Dallas,Basic,14.92,46,7,1,Weekly,2026-03-28,4,0
+CUST-2449,53,Female,Philadelphia,Premium,94.55,26,3,4,Monthly,2026-06-07,4,0
+CUST-2450,71,Other,San Antonio,Basic,13.99,22,9,1,Weekly,2026-03-28,5,0
+CUST-2451,45,Male,San Diego,Basic,23.88,25,10,0,Weekly,2026-05-17,3,0
+CUST-2452,54,Male,Chicago,Standard,42.66,16,3,2,Monthly,2026-05-11,2,0
+CUST-2453,68,Male,Los Angeles,Basic,10.17,56,28,1,Daily,2026-05-09,2,1
+CUST-2454,75,Female,Houston,Premium,82.05,14,3,1,Daily,2026-05-05,4,0
+CUST-2455,71,Female,San Diego,Standard,58.14,19,5,1,Daily,2026-04-10,3,0
+CUST-2456,27,Male,San Antonio,Basic,20.65,40,14,1,Weekly,2026-04-10,5,0
+CUST-2457,35,Other,Houston,Basic,23.28,10,4,1,Daily,2026-06-15,3,0
+CUST-2458,48,Female,San Diego,Basic,25.34,38,12,3,Monthly,2026-04-07,2,1
+CUST-2459,19,Female,San Jose,Standard,65.42,6,2,1,Daily,2026-05-29,3,0
+CUST-2460,61,Female,Chicago,Basic,29.86,51,22,0,Weekly,2026-03-31,4,0
+CUST-2461,68,Male,Philadelphia,Premium,148.69,32,1,0,Monthly,2026-05-30,4,0
+CUST-2462,30,Other,Phoenix,Premium,142.34,2,2,1,Bi-weekly,2026-05-30,2,0
+CUST-2463,62,Female,Phoenix,Standard,69.85,22,1,3,Bi-weekly,2026-03-28,4,0
+CUST-2464,39,Other,New York,Basic,27.44,60,20,0,Daily,2026-04-08,2,1
+CUST-2465,30,Female,San Antonio,Standard,31.44,44,9,0,Monthly,2026-05-09,4,0
+CUST-2466,72,Female,San Antonio,Premium,97.37,23,5,2,Weekly,2026-04-19,4,0
+CUST-2467,46,Other,Los Angeles,Premium,143.07,56,17,0,Daily,2026-06-18,3,0
+CUST-2468,24,Male,Los Angeles,Basic,17.47,10,5,0,Weekly,2026-06-09,2,1
+CUST-2469,18,Other,Philadelphia,Premium,75.63,38,15,1,Bi-weekly,2026-03-27,2,1
+CUST-2470,21,Other,Chicago,Basic,28.36,60,3,0,Weekly,2026-06-09,2,1
+CUST-2471,68,Other,Houston,Basic,11.0,6,2,1,Bi-weekly,2026-04-01,3,0
+CUST-2472,30,Other,San Diego,Premium,126.5,31,5,1,Daily,2026-04-25,3,0
+CUST-2473,23,Male,Houston,Standard,35.76,35,7,0,Daily,2026-03-23,2,1
+CUST-2474,72,Female,Houston,Basic,17.89,54,19,2,Bi-weekly,2026-04-05,5,0
+CUST-2475,36,Male,San Antonio,Standard,62.98,48,8,1,Daily,2026-03-29,4,0
+CUST-2476,28,Male,New York,Basic,19.88,58,24,1,Daily,2026-04-02,5,1
+CUST-2477,66,Other,San Diego,Basic,29.54,44,3,3,Bi-weekly,2026-04-06,3,0
+CUST-2478,56,Other,Los Angeles,Premium,90.99,54,11,0,Monthly,2026-05-06,5,0
+CUST-2479,37,Female,Philadelphia,Premium,149.93,13,2,0,Weekly,2026-06-15,4,0
+CUST-2480,74,Female,Philadelphia,Standard,48.54,58,15,3,Monthly,2026-06-01,2,0
+CUST-2481,42,Female,New York,Basic,25.77,25,11,1,Weekly,2026-04-30,4,1
+CUST-2482,68,Other,Chicago,Basic,21.86,12,2,3,Daily,2026-06-18,4,0
+CUST-2483,35,Female,Houston,Basic,19.95,11,3,2,Bi-weekly,2026-05-22,3,0
+CUST-2484,64,Female,San Antonio,Standard,67.89,11,4,4,Daily,2026-05-06,1,1
+CUST-2485,38,Other,San Diego,Premium,93.15,16,8,2,Weekly,2026-04-28,5,1
+CUST-2486,37,Other,Chicago,Standard,55.22,44,20,4,Monthly,2026-04-03,1,1
+CUST-2487,51,Female,Philadelphia,Premium,99.87,45,5,1,Bi-weekly,2026-04-09,5,1
+CUST-2488,46,Female,San Antonio,Basic,14.19,21,4,1,Bi-weekly,2026-03-31,5,0
+CUST-2489,53,Female,San Jose,Standard,57.93,58,5,3,Bi-weekly,2026-04-01,2,0
+CUST-2490,57,Male,Houston,Standard,52.53,57,1,2,Bi-weekly,2026-04-16,2,1
+CUST-2491,27,Other,Philadelphia,Basic,20.58,30,10,0,Bi-weekly,2026-06-12,5,0
+CUST-2492,30,Female,Chicago,Standard,63.91,4,2,0,Weekly,2026-05-23,2,1
+CUST-2493,70,Other,San Diego,Premium,81.69,18,6,1,Monthly,2026-05-11,3,0
+CUST-2494,59,Male,San Jose,Premium,79.63,47,2,2,Weekly,2026-04-14,4,1
+CUST-2495,42,Female,New York,Standard,40.44,10,3,1,Daily,2026-06-17,5,0
+CUST-2496,47,Male,San Diego,Premium,100.56,11,5,3,Monthly,2026-05-11,1,0
+CUST-2497,47,Female,Houston,Premium,118.52,19,3,3,Weekly,2026-05-10,1,1
+CUST-2498,73,Female,Dallas,Standard,44.75,21,7,0,Daily,2026-04-01,5,0
+CUST-2499,43,Male,Philadelphia,Premium,136.89,3,2,0,Bi-weekly,2026-04-09,2,0
+CUST-2500,21,Other,Chicago,Standard,32.56,5,1,2,Weekly,2026-06-07,3,0
