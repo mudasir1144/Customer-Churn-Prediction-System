@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import pickle
 
-with open('log_model.pkl', 'rb') as file:
+with open('models/log_model.pkl', 'rb') as file:
     log_model = pickle.load(file)
 
 def predict_customer_churn(
