@@ -92,3 +92,21 @@ if predict_button:
     st.write(
         f"Churn Probability: {probability*100:.2f}%"
     )
+
+st.subheader("Important Contributing feature")
+
+factors = []
+
+if satisfaction_score <=4:
+    factors.append("Low Customer Satisfaction")
+if support_requests >=5:
+    factors.append('High Customer Support Request')
+if purchases <=3:
+    factors.append("Low number of purchases")
+if age <25:
+    factors.append("Young customer segment")
+if len(factors)==0:
+    st.write('No major churn risk factor detected')
+else:
+    for factor in factors:
+        st.write(f"{factor}")
