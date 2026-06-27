@@ -3,8 +3,8 @@ import numpy as np
 import pandas as pd
 import pickle
 
-with open('models/log_model.pkl', 'rb') as file:
-    log_model = pickle.load(file)
+with open('models/ann_model.pkl', 'rb') as file:
+    ann_model = pickle.load(file)
 
 def predict_customer_churn(
     age,
@@ -24,9 +24,9 @@ def predict_customer_churn(
         'Satisfaction Score':[satisfaction_score]
     })
 
-    prediction = log_model.predict(customer_data)[0]
+    prediction = ann_model.predict(customer_data)[0]
 
-    probability = log_model.predict_proba(customer_data)[0][1]
+    probability = ann_model.predict_proba(customer_data)[0][1]
 
     if prediction == 1:
         result = "Likely To Churn"
