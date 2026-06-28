@@ -41,25 +41,23 @@ The project uses **Logistic Regression** for binary classification and is deploy
 ```text
 Customer-Churn-Prediction/
 │
-├── dataset/
-│   └── customer_churn.csv
-│
+├── customer_dataset.csv
+│   │
 ├── models/
 │   └── log_model.pkl
+|   └── feature_name.pkl
+|   └── ann_model.pkl
+|   └── xg_boost.pkl
 │
-├── notebooks/
-│   └── index.ipynb
-│
+├── index.ipynb
+│  │
 ├── streamlit_test_app.py
 │
-├── requirements.txt
+├── analysis report.docx
 │
 ├── README.md
 │
-└── screenshots/
-    ├── home.png
-    ├── prediction.png
-    └── result.png
+└── Heatmap.png
 ```
 
 ---
@@ -239,13 +237,6 @@ matplotlib
 seaborn
 ```
 
-Install them using:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 # 💼 Business Benefits
 
@@ -276,19 +267,6 @@ Possible enhancements include:
 
 ---
 
-# 📸 Screenshots
-
-Include screenshots of:
-
-* Home Screen
-* Input Form
-* Prediction Result
-* Churn Probability Output
-* Risk Factor Analysis
-
-*(Store images in the `screenshots/` folder and embed them here.)*
-
----
 
 # 🤝 Contributing
 
